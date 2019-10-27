@@ -15,6 +15,18 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+###个人信息
+####姓名：陶青
+####学历：硕士
+####学校：中南大学
+####邮箱：taoqing5917@qq.com
+
+###研究方向
+####深度学习
+####深度强化学习
+####时间序列预测
+####泛在电力物联网 新能源发电
+
 - Bulleted
 - List
 
