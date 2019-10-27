@@ -40,6 +40,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ##### 3.会议论文：Recurrent Neural Networks Application to Forecasting with Two Cases: Load and Pollution+本人一作+2nd International Conference on Intelligent Computing and Optimization (ICO2019)+泰国苏梅岛+2019年10月3-5日；
 ##### 4.专利申请：一种PM2.5浓度预测方法、装置及介质+第二发明人+201910100028.5+已申请+2019年1月31日。
 
+### 科研项目
+##### 1.中南大学2019年度研究生自主探索创新基金项目：基于深度循环神经网络的新能源发电功率预测，项目负责人。
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
