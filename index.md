@@ -4,7 +4,11 @@ You can use the [editor on GitHub](https://github.com/taoqing5917/taoqing5917.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
+### 个人信息
+#### 姓名：陶青
+#### 学历：硕士
+#### 学校：中南大学
+#### 邮箱：taoqing5917@qq.com
 
 
 ### Markdown
