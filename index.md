@@ -48,15 +48,13 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Markdown is a lightweight and easy-to-use syntax for styling your writing. 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
-
 
 
 - Bulleted
@@ -69,8 +67,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-
 
 
 
