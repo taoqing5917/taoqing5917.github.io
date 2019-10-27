@@ -4,6 +4,24 @@ You can use the [editor on GitHub](https://github.com/taoqing5917/taoqing5917.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>陶青</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>中南大学自动化学院</b></p>
+      <p><b>邮箱：taoqing5917@qq.com</b></p>
+      <p><b>地址：长沙市岳麓区麓山南路932号中南大学，科技楼，邮编410083</b></p>
+    </td>
+    <td width="25%">
+      <img src="/taoqing5917.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
+
+
 ### 个人信息
 ##### 姓名：陶青
 ##### 学历：硕士
