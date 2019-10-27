@@ -7,8 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 个人信息
 ##### 姓名：陶青
 ##### 学历：硕士
-#### 学校：中南大学
-#### 邮箱：taoqing5917@qq.com
+##### 学校：中南大学
+##### 邮箱：taoqing5917@qq.com
 
 
 ### Markdown
