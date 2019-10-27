@@ -31,12 +31,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ##### 2019.09-至今 中南大学 控制工程
 
 ### 所获奖项
-##### 1.哈哈哈哈哈
-##### 2.哈哈哈哈哈
+##### 1.第二届“源创杯”创新创意大赛南部赛区优胜奖，题目：基于机器视觉的微型仿生飞行器
+##### 2.2018-2019年度中南大学自动化学院 优秀学生（研究生）
 
 ### 科研成果
-##### 发表论文
-
+##### 1.期刊论文：Air Pollution Forecasting Using a Deep Learning Model Based on 1D Convnets and Bidirectional GRU+本人一作+《IEEE Access》+JCR1区（IF=4.098）+已发表+2019年6月7日；
+##### 2.会议论文：Energy balancing using charge/discharge storages control and load forecasts in a renewable-energy-based grids+本人二作+第38届中国控制会议（CCC2019）+中国 广州+2019年7月27-30日；
+##### 3.会议论文：Recurrent Neural Networks Application to Forecasting with Two Cases: Load and Pollution+本人一作+2nd International Conference on Intelligent Computing and Optimization (ICO2019)+泰国苏梅岛+2019年10月3-5日；
+##### 4.专利申请：一种PM2.5浓度预测方法、装置及介质+第二发明人+201910100028.5+已申请+2019年1月31日。
 
 ### Markdown
 
