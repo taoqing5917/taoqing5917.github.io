@@ -50,11 +50,13 @@
 ##### 2.2019.10  湖南省第十二届研究生创新论坛，做学术报告，长沙 中南大学
 
 ### **——学习资料——**
-- 深度学习
-- 深度强化学习
-- 时间序列预测
-- PyTorch
-##### 1.[PyTorch从入门到精通](https://github.com/amusi/PyTorch-From-Zero-To-One)
+##### 深度学习
+##### 深度强化学习
+##### 时间序列预测
+##### PyTorch
+- 1.[PyTorch从入门到精通](https://github.com/amusi/PyTorch-From-Zero-To-One)
+- 2.[pytorch_bits](https://github.com/jpeg729/pytorch_bits) : time-series prediction related examples.
+
 
 > 注：待添加（个人项目）！
 > - 深度学习北京PM2.5预测
