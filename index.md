@@ -54,6 +54,7 @@
 - 深度强化学习
 - 时间序列预测
 - PyTorch
+##### 1.[PyTorch从入门到精通](https://github.com/amusi/PyTorch-From-Zero-To-One)
 
 > 注：待添加（个人项目）！
 > - 深度学习北京PM2.5预测
