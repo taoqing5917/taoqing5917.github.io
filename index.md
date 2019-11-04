@@ -31,23 +31,23 @@
   
 
 ### **——所获奖项——**
-##### 1.第二届“源创杯”创新创意大赛南部赛区优胜奖，题目：`基于机器视觉的微型仿生飞行器`
-##### 2.2018-2019年度中南大学 优秀学生（研究生）
+- 1.第二届“源创杯”创新创意大赛南部赛区优胜奖，题目：`基于机器视觉的微型仿生飞行器`
+- 2.2018-2019年度中南大学 优秀学生（研究生）
   
 
 ### **——科研成果——**
-##### 1.期刊论文：Air Pollution Forecasting Using a Deep Learning Model Based on 1D Convnets and Bidirectional GRU+本人一作+《IEEE Access》+JCR1区（IF=4.098）+已发表+2019年6月7日；([link](https://ieeexplore.ieee.org/document/8732985))
-##### 2.会议论文：Energy balancing using charge/discharge storages control and load forecasts in a renewable-energy-based grids+本人二作+第38届中国控制会议（CCC2019）+中国 广州+2019年7月27-30日(EI会议)；([link](https://arxiv.org/abs/1906.02959))
-##### 3.会议论文：Recurrent Neural Networks Application to Forecasting with Two Cases: Load and Pollution+本人一作+2nd International Conference on Intelligent Computing and Optimization (ICO2019)+泰国苏梅岛+2019年10月3-5日；([link](https://www.springer.com/gb/book/9783030335847))
-##### 4.专利申请：一种PM2.5浓度预测方法、装置及介质+第二发明人+201910100028.5+已公开+2019年1月31日。
+- 1.期刊论文：Air Pollution Forecasting Using a Deep Learning Model Based on 1D Convnets and Bidirectional GRU+本人一作+《IEEE Access》+JCR1区（IF=4.098）+已发表+2019年6月7日；([link](https://ieeexplore.ieee.org/document/8732985))
+- 2.会议论文：Energy balancing using charge/discharge storages control and load forecasts in a renewable-energy-based grids+本人二作+第38届中国控制会议（CCC2019）+中国 广州+2019年7月27-30日(EI会议)；([link](https://arxiv.org/abs/1906.02959))
+- 3.会议论文：Recurrent Neural Networks Application to Forecasting with Two Cases: Load and Pollution+本人一作+2nd International Conference on Intelligent Computing and Optimization (ICO2019)+泰国苏梅岛+2019年10月3-5日；([link](https://www.springer.com/gb/book/9783030335847))
+- 4.专利申请：一种PM2.5浓度预测方法、装置及介质+第二发明人+201910100028.5+已公开+2019年1月31日。
   
 
 ### **——科研项目——**
-##### 1.中南大学2019年度研究生自主探索创新基金项目：`基于深度循环神经网络的新能源发电功率预测`，项目负责人。
+- 1.中南大学2019年度研究生自主探索创新基金项目：`基于深度循环神经网络的新能源发电功率预测`，项目负责人。
   
 ### **——参与会议——**
-##### 1.2019.10  第二届智能计算与优化国际会议，做学术报告，泰国 苏梅岛
-##### 2.2019.10  湖南省第十二届研究生创新论坛，做学术报告，长沙 中南大学
+- 1.2019.10  第二届智能计算与优化国际会议，做学术报告，泰国 苏梅岛
+- 2.2019.10  湖南省第十二届研究生创新论坛，做学术报告，长沙 中南大学
 
 ### **——学习资料——**
 ##### 深度学习
