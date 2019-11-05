@@ -34,6 +34,15 @@
 - 1.第二届“源创杯”创新创意大赛南部赛区优胜奖，题目：`基于机器视觉的微型仿生飞行器`
 - 2.2018-2019年度中南大学 优秀学生（研究生）
   
+### **——IT技能——**
+- 熟练掌握  C/C++，Python，Keras，Office
+- 熟悉		 Java，MATLAB, PyTorch
+- 熟悉RNN等深度学习技术和SVR等机器学习技术，有Keras、Scikit-learn、PyTorch使用经验；
+- 熟悉C/C++,Java,Python编程，有OpenCV使用经验；
+- 熟练掌握各类常用数据结构和相关算法；
+
+### **——个人评价——**
+- 有优秀的分析问题和解决问题的能力，乐于挑战尖端研究课题；良好的沟通能力和团队合作精神；
 
 ### **——科研成果——**
 - 1.期刊论文：Air Pollution Forecasting Using a Deep Learning Model Based on 1D Convnets and Bidirectional GRU+本人一作+《IEEE Access》+JCR1区（IF=4.098）+已发表+2019年6月7日；([link](https://ieeexplore.ieee.org/document/8732985))
