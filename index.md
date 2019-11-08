@@ -50,7 +50,10 @@
 - 3.会议论文：Recurrent Neural Networks Application to Forecasting with Two Cases: Load and Pollution+本人一作+2nd International Conference on Intelligent Computing and Optimization (ICO2019)+泰国苏梅岛+2019年10月3-5日；([link](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_37))
 - 4.专利申请：一种PM2.5浓度预测方法、装置及介质+第二发明人+201910100028.5+已公开+2019年1月31日。
 
+- **Q. Tao**, F. Liu, Y. Li and D. Sidorov, "Air Pollution Forecasting Using a Deep Learning Model Based on 1D Convnets and Bidirectional GRU," in IEEE Access, vol. 7, pp. 76690-76698, 2019. doi: 10.1109/ACCESS.2019.2921578
 
+- D. Sidorov, **Q. Tao**, I. Muftahov, A. Zhukov, D. Karamov, A. Dreglea,and F. Liu, “Energy balancing using charge/discharge storages control
+and load forecasts in a renewable-energy-based grids,” in 2019 38th Chinese Control Conference (CCC), vol. (to appear), no. arXiv:1906.02959.
 - **Tao Q.**, Liu F., Sidorov D. (2020) Recurrent Neural Networks Application to Forecasting with Two Cases: Load and Pollution. In: Vasant P., Zelinka I., Weber GW. (eds) Intelligent Computing and Optimization. ICO 2019. Advances in Intelligent Systems and Computing, vol 1072. Springer, Cham.
 
 ### **——科研项目——**
