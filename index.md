@@ -54,7 +54,7 @@
 
 - D. Sidorov, **Q. Tao**, I. Muftahov, A. Zhukov, D. Karamov, A. Dreglea,and F. Liu, “Energy balancing using charge/discharge storages control
 and load forecasts in a renewable-energy-based grids,” in 2019 38th Chinese Control Conference (CCC), vol. (to appear), no. arXiv:1906.02959.
-- **Tao Q.**, Liu F., Sidorov D. (2020) Recurrent Neural Networks Application to Forecasting with Two Cases: Load and Pollution. In: Vasant P., Zelinka I., Weber GW. (eds) Intelligent Computing and Optimization. ICO 2019. Advances in Intelligent Systems and Computing, vol 1072. Springer, Cham.
+- **Q. Tao**, F. Liu, D. Sidorov (2020) Recurrent Neural Networks Application to Forecasting with Two Cases: Load and Pollution. In: Vasant P., Zelinka I., Weber GW. (eds) Intelligent Computing and Optimization. ICO 2019. Advances in Intelligent Systems and Computing, vol 1072. Springer, Cham.
 
 ### **——科研项目——**
 - 中南大学2019年度研究生自主探索创新基金项目：`基于深度循环神经网络的新能源发电功率预测`，项目负责人。
