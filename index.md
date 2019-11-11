@@ -60,9 +60,6 @@ and load forecasts in a renewable-energy-based grids,” in 2019 38th Chinese Co
 ### **——科研项目——**
 - 中南大学2019年度研究生自主探索创新基金项目：`基于深度循环神经网络的新能源发电功率预测`，项目负责人。
 
-### **——个人项目——**
-- [time-series-forecasting](https://github.com/taoqing5917/time-series-forecasting)
-
 ### **——参与会议——**
 - 2019.10  第二届智能计算与优化国际会议，做学术报告，泰国 苏梅岛
 - 2019.10  湖南省第十二届研究生创新论坛，做学术报告，长沙 中南大学
@@ -79,8 +76,8 @@ and load forecasts in a renewable-energy-based grids,” in 2019 38th Chinese Co
 
 
 
-> 注：待添加（个人项目）！
-> - 深度学习北京PM2.5预测
+> 个人项目
+> - [time-series-forecasting（深度学习+机器学习 时间序列预测）](https://github.com/taoqing5917/time-series-forecasting)
 > - 深度学习+机器学习德国负荷预测
 > - 功率预测
 > - 深度强化学习储能控制
