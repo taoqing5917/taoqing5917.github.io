@@ -1,10 +1,13 @@
 
 
-### **——学习资料——**
-#### Python
+## **——学习资料——**
+### *Python*
 - 1.[笨办法学 Python （Learn Python The Hard Way）](https://www.2cto.com/shouce/Pythonbbf/index.html)
 
-### 机器学习书籍
+------------
+
+### *机器学习书籍*
+
 #### 《统计学习方法》
 - 1.[（基于IRIS鸢尾花卉数据集）《统计学习方法》的代码实现](https://github.com/fengdu78/lihang-code)
 - 2.[（基于MNIST数据集）《统计学习方法》的代码实现](https://github.com/WenDesi/lihang_book_algorithm)
@@ -28,11 +31,20 @@
 
 ---------------------------
 
+### *深度学习框架*
+
 #### PyTorch
 - 1.[PyTorch从入门到精通（首要参考）](https://github.com/amusi/PyTorch-From-Zero-To-One)
 - 2.[pytorch_bits](https://github.com/jpeg729/pytorch_bits) : time-series prediction related examples.
 - 3.[pytorch 中文网（含中文文档）](https://www.pytorchtutorial.com) 
 - 4.[the-incredible-pytorch（资料众多）](https://github.com/ritchieng/the-incredible-pytorch) ：极好的PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+
+#### Keras
+
+
+#### TensorFlow
+
+#### Scikit-learn
 
 ----------------
 
