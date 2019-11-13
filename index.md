@@ -9,10 +9,10 @@
   <tr>
     <td width="75%">
       <h1>陶青</h1>
-      <p><b>男 24岁 中南大学自动化学院 硕士研究生</b></p>
+      <p><b>男 / 24岁 / 中南大学自动化学院 硕士研究生</b></p>
       <p><b>籍贯：贵州省平塘县</b></p>
       <p><b>政治面貌：共青团员</b></p>
-      <p><b>邮箱：taoqing5917@qq.com; 电话：18684995917</b></p>
+      <p><b>联系方式：taoqing5917@qq.com / 18684995917</b></p>
       <p><b>研究方向：基于深度学习的时间序列预测；强化学习</b></p>
     </td>
     <td width="25%">
@@ -22,10 +22,6 @@
 </table>
 
 
-
-| Example(示例)  |  链接(Entrance link)  | 
-| :---: | :---: |
-| <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/001Funny_滑稽大佬😏BQB/0.gif /> | [001Funny_滑稽大佬😏BQB(已收录37张)](https://zhaoolee.github.io/ChineseBQB/001Funny_滑稽大佬😏BQB/) |
 
 ### **教育经历**
 - 2014.09-2018.06 山东大学 测控技术与仪器 本科
