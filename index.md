@@ -7,7 +7,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="67%">
       <h1>陶青</h1>
       <p><b>男 / 24岁 </b></p>
       <p><b>中南大学自动化学院控制工程 硕士研究生</b></p>
@@ -16,7 +16,7 @@
       <p><b>联系方式：taoqing5917@qq.com / 18684995917</b></p>
       <p><b>研究方向：基于深度学习的时间序列预测、强化学习</b></p>
     </td>
-    <td width="40%">
+    <td width="33%">
       <img src="/taoqing5917.jpg" width="100%">      
     </td>
   </tr>
