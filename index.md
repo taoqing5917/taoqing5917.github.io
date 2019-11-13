@@ -80,6 +80,6 @@
 -------------
 
 ### 个人项目
-> - [time-series-forecasting（深度学习+机器学习 时间序列预测）](https://github.com/taoqing5917/time-series-forecasting)
-> - 深度强化学习新能源发电储能控制
+> - [time-series-forecasting（**深度学习+机器学习 时间序列预测**）](https://github.com/taoqing5917/time-series-forecasting)
+> - **深度强化学习新能源发电储能控制**
 
