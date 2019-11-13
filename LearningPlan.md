@@ -11,6 +11,9 @@
 - 3.[《统计学习方法(第2版)》李航，笔记, 代码, notebook](https://github.com/SmirkCao/Lihang)
 
 #### 《深度学习》(深度学习“圣经”)
+- 1.[以《深度学习》习题为线索的 Tensorflow 2.0 深度学习实践](https://github.com/adhiraiyan/DeepLearningWithTF2.0)
+
+#### 《动手学深度学习 李沐》
 - 1.[《动手学深度学习》 MXNet实现](https://zh.d2l.ai/index.html)，[PyTorch实现](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 
 #### 《机器学习》（西瓜书）
