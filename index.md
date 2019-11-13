@@ -13,7 +13,7 @@
       <p><b>中南大学自动化学院</b></p>
       <tr>
         <td width="10%">
-          <img src="images/img1.png" width="100%"> 
+          <img src="images/img1.png" width="10%"> 
         <td width="90%">
           <p><b>电话：18684995917</b></p>
       </tr>
