@@ -28,7 +28,9 @@
 
 
 
-
+| Example(示例)  |  链接(Entrance link)  | 
+| :---: | :---: |
+| <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/001Funny_滑稽大佬😏BQB/0.gif /> | [001Funny_滑稽大佬😏BQB(已收录37张)](https://zhaoolee.github.io/ChineseBQB/001Funny_滑稽大佬😏BQB/) |
 
 ### **教育经历**
 - 2014.09-2018.06 山东大学 测控技术与仪器 本科
