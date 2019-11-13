@@ -9,7 +9,7 @@
 - 2.[（基于MNIST数据集）《统计学习方法》的代码实现](https://github.com/WenDesi/lihang_book_algorithm)
 - 3.[《统计学习方法(第2版)》李航，笔记, 代码, notebook](https://github.com/SmirkCao/Lihang)
 
-
+---------------------------
 
 ##### PyTorch
 - 1.[PyTorch从入门到精通（首要参考）](https://github.com/amusi/PyTorch-From-Zero-To-One)
@@ -17,7 +17,7 @@
 - 3.[pytorch 中文网（含中文文档）](https://www.pytorchtutorial.com) 
 - 4.[the-incredible-pytorch（资料众多）](https://github.com/ritchieng/the-incredible-pytorch) ：极好的PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 
-
+============================
 
 > 个人项目
 > - [time-series-forecasting（深度学习+机器学习 时间序列预测）](https://github.com/taoqing5917/time-series-forecasting)
