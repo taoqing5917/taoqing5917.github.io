@@ -39,6 +39,15 @@
  - 3.[pytorch 中文网（含中文文档）](https://www.pytorchtutorial.com) 
  - 4.[the-incredible-pytorch（资料众多）](https://github.com/ritchieng/the-incredible-pytorch) ：极好的PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 
+
+- [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
+	- A scalable template for PyTorch projects, with examples in Image Segmentation, Object classification, GANs and Reinforcement Learning.
+	- [Get started Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/getStarted_tutorial.md)
+	- [Mnist Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/mnist_tutorial.md)
+	- [ERFNET](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/erfnet.py)
+	- [DCGAN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dcgan.py)
+	- [DQN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dqn.py)
+
 #### Keras
 
 
