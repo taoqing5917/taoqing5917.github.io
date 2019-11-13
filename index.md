@@ -11,12 +11,7 @@
       <h1>陶青</h1>
       <p><b>硕士研究生</b></p>
       <p><b>中南大学自动化学院</b></p>
-      <p><b>
-        <td width="10%">
-          <img src="images/img1.png" width="10%"> 
-        <td width="90%">
-          <p><b>电话：18684995917</b></p>
-      </p></b>
+      | Example(示例)  |  链接(Entrance link)  | 
       <p><b>邮箱：taoqing5917@qq.com</b></p>
       <p><b>研究方向：基于深度学习的时间序列预测；强化学习</b></p>
     </td>
