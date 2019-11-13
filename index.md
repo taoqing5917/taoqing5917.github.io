@@ -54,7 +54,7 @@
 
 - **Q. Tao**, F. Liu, Y. Li and D. Sidorov, "Air Pollution Forecasting Using a Deep Learning Model Based on 1D Convnets and Bidirectional GRU," in IEEE Access, vol. 7, pp. 76690-76698, 2019. doi: 10.1109/ACCESS.2019.2921578（SCI，JCR1区，IF=1.098）.([link](https://ieeexplore.ieee.org/document/8732985))
 
-- D. Sidorov, **Q. Tao**, I. Muftahov, A. Zhukov, D. Karamov, A. Dreglea,and F. Liu. "Energy balancing using charge/discharge storages control and load forecasts in a renewable-energy-based grids," 2019 Chinese Control Conference (CCC), Guangzhou, China, 2019, pp. 6865-6870.([link](https://ieeexplore.ieee.org/document/8865777))
+- D. Sidorov, **Q. Tao**, I. Muftahov, A. Zhukov, D. Karamov, A. Dreglea,and F. Liu. "Energy balancing using charge/discharge storages control and load forecasts in a renewable-energy-based grids," 2019 Chinese Control Conference (CCC), Guangzhou, China, 2019, pp. 6865-6870（EI检索）.([link](https://ieeexplore.ieee.org/document/8865777))
 - **Q. Tao**, F. Liu, D. Sidorov (2020) Recurrent Neural Networks Application to Forecasting with Two Cases: Load and Pollution. In: Vasant P., Zelinka I., Weber GW. (eds) Intelligent Computing and Optimization. ICO 2019. Advances in Intelligent Systems and Computing, vol 1072. Springer, Cham.([link](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_37))
 - 刘芳,**陶青**,刘玲,李勇. 一种PM2.5浓度预测方法、装置及介质[P]. 湖南省：CN109978228A,2019-07-05.
 
