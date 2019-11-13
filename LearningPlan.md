@@ -7,7 +7,7 @@
 ##### 《统计学习方法》
 - 1.[（基于IRIS鸢尾花卉数据集）《统计学习方法》的代码实现](https://github.com/fengdu78/lihang-code)
 - 2.[（基于MNIST数据集）《统计学习方法》的代码实现](https://github.com/WenDesi/lihang_book_algorithm)
-- 3.[统计学习方法(第2版)李航，笔记, 代码, notebook](https://github.com/SmirkCao/Lihang)
+- 3.[ 统计学习方法(第2版)李航，笔记, 代码, notebook](https://github.com/SmirkCao/Lihang)
 
 
 
