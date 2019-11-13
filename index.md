@@ -1,6 +1,6 @@
 ## Welcome to my homepage！
 
-[English Version](index-en.md)
+[个人简历](Resume.md)
 
 
 
