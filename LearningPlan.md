@@ -33,11 +33,11 @@
 
 > ### *`深度学习框架`*
 
-#### PyTorch
-- 1.[PyTorch从入门到精通（首要参考）](https://github.com/amusi/PyTorch-From-Zero-To-One)
-- 2.[pytorch_bits](https://github.com/jpeg729/pytorch_bits) : time-series prediction related examples.
-- 3.[pytorch 中文网（含中文文档）](https://www.pytorchtutorial.com) 
-- 4.[the-incredible-pytorch（资料众多）](https://github.com/ritchieng/the-incredible-pytorch) ：极好的PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+- PyTorch
+ - 1.[PyTorch从入门到精通（首要参考）](https://github.com/amusi/PyTorch-From-Zero-To-One)
+ - 2.[pytorch_bits](https://github.com/jpeg729/pytorch_bits) : time-series prediction related examples.
+ - 3.[pytorch 中文网（含中文文档）](https://www.pytorchtutorial.com) 
+ - 4.[the-incredible-pytorch（资料众多）](https://github.com/ritchieng/the-incredible-pytorch) ：极好的PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 
 #### Keras
 
