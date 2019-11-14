@@ -25,6 +25,7 @@
 
 - 《强化学习》（[Reinforcement Learning: An Introduction 圣经](http://incompleteideas.net/book/the-book-2nd.html)）
 	- 1.[Python实现代码](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+	- 2.[Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
 	
 - [《白话强化学习与Pytorch》代码](https://github.com/GAOYANGAU/DRLPytorch)
 	
