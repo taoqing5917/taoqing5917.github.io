@@ -1,12 +1,13 @@
 
 
 ## **——学习资料——**
+
 ### *Python*
 - 1.[笨办法学 Python （Learn Python The Hard Way）](https://www.2cto.com/shouce/Pythonbbf/index.html)
 
 ------------
 
-> ### *`机器学习书籍`*
+### *`机器学习书籍`*
 
 - 《统计学习方法》
 	- 1.[（基于IRIS鸢尾花卉数据集）《统计学习方法》的代码实现](https://github.com/fengdu78/lihang-code)
@@ -28,7 +29,7 @@
 
 ---------------------------
 
-> ### *`深度学习框架`*
+### *`深度学习框架`*
 
 - PyTorch
 	- 1.[PyTorch从入门到精通（首要参考）](https://github.com/amusi/PyTorch-From-Zero-To-One)
@@ -45,7 +46,7 @@
 
 ----------------
 
-> ### *`其他资料`*
+### *`其他资料`*
 
 > - [awesome-deep-learning: 深度学习最全资料集锦](https://github.com/ChristosChristofidis/awesome-deep-learning)
 > - [李笑来：自学是门手艺（自学Python）](https://github.com/selfteaching/the-craft-of-selfteaching)
