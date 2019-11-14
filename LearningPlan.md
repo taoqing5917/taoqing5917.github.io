@@ -51,6 +51,9 @@
 - TensorFlow
 
 - Scikit-learn
+	- [scikit-learn (sklearn) 官方文档中文版](https://sklearn.apachecn.org/#/)
+	- [官网](https://scikit-learn.org/stable/index.html)
+
 
 ----------------
 
