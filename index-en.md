@@ -19,7 +19,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   </tr>
 </table>
 
-
+QING TAO received the B.S. degree from the School of Mechanical, Electrical & Information Engineering, Shandong University, Weihai, China, in 2018. He is working toward the M.S. degree in the School of Automation, Central South University, Changsha, China. His research interests include deep learning, artificial neural network, and time series forecasting
 
 
 ### 教育经历（英文版）
