@@ -23,9 +23,10 @@
 - 《机器学习》（西瓜书）
 	- [《机器学习》（西瓜书）公式推导解析](https://github.com/datawhalechina/pumpkin-book)，[即：南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/)
 
-- 《强化学习》
-	- 1.[《白话强化学习与Pytorch》代码](https://github.com/GAOYANGAU/DRLPytorch)
-	- 1.[《白话强化学习与Pytorch》代码](https://github.com/GAOYANGAU/DRLPytorch)
+- 《强化学习》（[Reinforcement Learning: An Introduction 圣经](http://incompleteideas.net/book/the-book-2nd.html)）
+	- 1.[Python实现代码](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+	
+- [《白话强化学习与Pytorch》代码](https://github.com/GAOYANGAU/DRLPytorch)
 	
 - 《深度强化学习实战》[随书代码Code from the Deep Reinforcement Learning in Action book from Manning, Inc](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction)
 
