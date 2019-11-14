@@ -2,6 +2,8 @@
 
 ## **——学习资料——**
 
+------------
+
 ### *`Python`*
 - 1.[笨办法学 Python （Learn Python The Hard Way）](https://www.2cto.com/shouce/Pythonbbf/index.html)
 
@@ -48,7 +50,7 @@
 	
 - Keras
 	- 1.《Python深度学习（Deep Learning with Python）》[源代码](https://github.com/fchollet/deep-learning-with-python-notebooks)
-	> Keras之父Francois Chollet所写，学习Keras这一本就够!
+	> 注：Keras之父Francois Chollet所写，学习Keras这一本就够!
 
 - TensorFlow
 
