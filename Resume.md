@@ -33,10 +33,10 @@
 ---------------------------
 
 ### **IT技能**
-- 熟练掌握  C/C++，Python，Keras，Office
-- 熟悉		 Java，MATLAB, PyTorch
+- 熟练掌握  Python，Keras，Office
+- 熟悉		 C/C++, Java, MATLAB
 - 熟悉RNN等深度学习技术和SVR等机器学习技术，有Keras、Scikit-learn、PyTorch使用经验；
-- 熟悉C/C++,Java,Python编程，有OpenCV使用经验；
+- 熟悉计算机视觉基本知识，有OpenCV使用经验；
 - 熟练掌握各类常用数据结构和相关算法；
 
 ---------------------------
