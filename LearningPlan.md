@@ -94,7 +94,7 @@
 > - 写论文时用Python画图的一些教程
 > 	 - [Python中画图时候的线类型](https://blog.csdn.net/qq_34940959/article/details/78488208)
 > 	 - [python 生成矢量图并导入word中:pdf->eps->emf](https://blog.csdn.net/qq_30708445/article/details/87856226)
-
+> - Markdown:[Markdown 教程](https://www.runoob.com/markdown/md-tutorial.html);[Markdown 中文文档](https://markdown-zh.readthedocs.io/en/latest/)
 
 
 资料整理： **[陶青](index.md)**
