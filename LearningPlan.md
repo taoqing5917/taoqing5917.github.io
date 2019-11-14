@@ -81,11 +81,11 @@
 
 ----------------
 
-### *`网络课程`*
+### 网络课程
 - [CS234: Reinforcement Learning Winter 2019](http://web.stanford.edu/class/cs234/index.html) [B站：【斯坦福课程：强化学习】](https://www.bilibili.com/video/av47903063/)
 - [李宏毅 强化学习](https://www.bilibili.com/video/av24724071)
 
-
+----------------
 
 ### 其他资料
 
