@@ -88,6 +88,6 @@
 > - [awesome-deep-learning: 深度学习最全资料集锦](https://github.com/ChristosChristofidis/awesome-deep-learning)
 > - [李笑来：自学是门手艺（自学Python）](https://github.com/selfteaching/the-craft-of-selfteaching)
 > - 写论文时用Python画图的一些教程
-> -	  [Python中画图时候的线类型](https://blog.csdn.net/qq_34940959/article/details/78488208)
-> -	  [python 生成矢量图并导入word中:pdf->eps->emf](https://blog.csdn.net/qq_30708445/article/details/87856226)
+> 	 - [Python中画图时候的线类型](https://blog.csdn.net/qq_34940959/article/details/78488208)
+> 	 - [python 生成矢量图并导入word中:pdf->eps->emf](https://blog.csdn.net/qq_30708445/article/details/87856226)
 
