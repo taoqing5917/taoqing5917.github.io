@@ -2,7 +2,7 @@
 
 ## **——学习资料——**
 
-### *Python*
+### *`Python`*
 - 1.[笨办法学 Python （Learn Python The Hard Way）](https://www.2cto.com/shouce/Pythonbbf/index.html)
 
 ------------
