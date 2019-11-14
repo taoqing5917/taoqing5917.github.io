@@ -27,11 +27,11 @@ QING TAO received the B.S. degree from the School of Mechanical, Electrical & In
 ##### 2015.09-2016.06 西北工业大学 测控技术与仪器
 ##### 2019.09-至今 中南大学 控制工程
 
-### 所获奖项
+### Honor
 ##### 1.哈哈哈哈哈
 ##### 2.哈哈哈哈哈
 
-### 科研成果
+### Publication
 ##### 发表论文
 
 
