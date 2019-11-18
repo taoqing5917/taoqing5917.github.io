@@ -1,7 +1,7 @@
 ## Welcome to my homepage！
 
 
-#### **[个人简历](Resume.md)**
+#### **[个人简历](Files/QingTAO-Resume.pdf)**
 #### **[学习资料整理](LearningPlan.md)**
 
 
