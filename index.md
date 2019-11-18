@@ -2,7 +2,7 @@
 
 
 #### **[[My CV]](Files/QingTAO-Resume.pdf)**
-#### **[学习资料整理](LearningPlan.md)**
+#### **[[学习资料整理]](LearningPlan.md)**
 
 
 
