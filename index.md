@@ -3,9 +3,9 @@
 
 #### **[[学习资料整理]](LearningPlan.md)**
 
-Hi~ I am Qing Tao, I'm working toward the M.S. degree in the School of Automation, Central South University, Changsha, China. I am a member of Advanced Control Lab and advised by Professor Fang Liu.  My research interests include deep learning, time series forecasting and so on.
-
-Here is [[my CV]](Files/QingTAO-Resume.pdf), and you can find my projects from [[my github]](https://github.com/taoqing5917).
+> Hi~ I am Qing Tao, I'm working toward the M.S. degree in the School of Automation, Central South University, Changsha, China. I am a member of Advanced Control Lab and advised by Professor Fang Liu.  My research interests include deep learning, time series forecasting and so on.
+> 
+> Here is [[my CV]](Files/QingTAO-Resume.pdf), and you can find my projects from [[my github]](https://github.com/taoqing5917).
 
 
 
