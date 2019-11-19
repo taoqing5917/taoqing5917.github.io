@@ -87,6 +87,11 @@
 
 ----------------
 
+### 时间序列预测
+- [新书《新书：时序分析——数据、方法与应用/Time Series Analysis - Data, Methods, and Applications](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications
+
+----------------
+
 ### 其他资料
 
 > - [awesome-deep-learning: 深度学习最全资料集锦](https://github.com/ChristosChristofidis/awesome-deep-learning)
