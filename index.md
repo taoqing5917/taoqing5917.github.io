@@ -1,4 +1,4 @@
-## Welcome to my homepage！
+## Welcome！
 
 
 [学习资料整理](LearningPlan.md)
