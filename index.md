@@ -1,7 +1,7 @@
 ## Welcome！
 
 
-[学习资料整理](LearningPlan.md)
+[[学习资料整理](LearningPlan.md)]
 ------------------------------
 
 > Hi~ my name is **Qing Tao**, I'm working toward the M.S. degree in the School of Automation, Central South University, Changsha, China. I am a member of Advanced Control Lab and advised by Professor Fang Liu.  My research interests include deep learning, time series forecasting and so on.
