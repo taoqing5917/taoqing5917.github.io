@@ -16,6 +16,8 @@
 - 1.[CS-Notes](https://cyc2018.github.io/CS-Notes/#/README)
 - 2.[AI-Job-Notes](https://github.com/amusi/AI-Job-Notes):AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
 - 3.[2019_algorithm_intern_information](https://github.com/HarleysZhang/2019_algorithm_intern_information):2020年的算法实习岗位/校招公司信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结
+- 4.[Awesome-algorithm-interview](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#resume-template):资料齐全，含算法、机器学习、深度学习、C/C++、Python、简历等
+
 
 
 ------------
