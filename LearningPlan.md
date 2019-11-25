@@ -97,6 +97,13 @@
 	- 6.Using Gray-Markov Model and Time Series Model to Predict Foreign Direct Investment Trend for Supporting China’s Economic Development. [link](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications/using-gray-markov-model-and-time-series-model-to-predict-foreign-direct-investment-trend-for-support)
 
 
+----------------
+
+### Colab资源大全
+
+> - [Colab Notebooks: 网站](https://www.google-colab.com/)
+> - [Awesome Google Colab项目](https://github.com/firmai/awesome-google-colab)
+> - [Awesome Machine Learning Jupyter Notebooks for Colab项目](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab)
 
 ----------------
 
