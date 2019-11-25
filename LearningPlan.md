@@ -3,10 +3,19 @@
 ## **——学习资料——**
 
 ------------
-
-### Python/编程
+###编程
+#### Python
 - 1.[笨办法学 Python （Learn Python The Hard Way）](https://www.2cto.com/shouce/Pythonbbf/index.html)
-- 2.《算法》第四版 Algorithms, 4th edition textbook [Java代码](https://github.com/kevin-wayne/algs4)
+
+#### 数据结构与算法
+- 1.《算法》第四版 Algorithms, 4th edition textbook [Java代码](https://github.com/kevin-wayne/algs4)
+- 2.《剑指 offer》的题目用[Java 语言](https://github.com/hackhu2019/offer)
+
+
+#### 好的资源
+- 1.[CS-Notes](https://cyc2018.github.io/CS-Notes/#/README)
+- 2.[AI-Job-Notes](https://github.com/amusi/AI-Job-Notes):AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
+- 3.[2019_algorithm_intern_information](https://github.com/HarleysZhang/2019_algorithm_intern_information):2020年的算法实习岗位/校招公司信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结
 
 
 ------------
