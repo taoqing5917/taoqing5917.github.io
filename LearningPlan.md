@@ -89,12 +89,8 @@
 
 ### 时间序列预测
 - 新书:[《时序分析——数据、方法与应用/Time Series Analysis - Data, Methods, and Applications》](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications)
-	- 1.Process Fault Diagnosis for Continuous Dynamic Systems Over Multivariate Time Series. [link](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications/process-fault-diagnosis-for-continuous-dynamic-systems-over-multivariate-time-series)
-	- 2.Fuzzy Forecast Based on Fuzzy Time Series. [link](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications/fuzzy-forecast-based-on-fuzzy-time-series)
-	- 3.Training Deep Neural Networks with Reinforcement Learning for Time Series Forecasting. [link](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications/training-deep-neural-networks-with-reinforcement-learning-for-time-series-forecasting) 
-	- 4.CNN Approaches for Time Series Classification [link](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications/cnn-approaches-for-time-series-classification) 
-	- 5.Forecasting Shrimp and Fish Catch in Chilika Lake over Time Series Analysis. [link](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications/forecasting-shrimp-and-fish-catch-in-chilika-lake-over-time-series-analysis)
-	- 6.Using Gray-Markov Model and Time Series Model to Predict Foreign Direct Investment Trend for Supporting China’s Economic Development. [link](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications/using-gray-markov-model-and-time-series-model-to-predict-foreign-direct-investment-trend-for-support)
+
+- [Time-Series-Papers](https://github.com/bighuang624/Time-Series-Papers)：List of awesome papers about time series, mainly including algorithms based on machine learning | 收录时间序列分析中各个研究领域的高水平文章，主要包含基于机器学习的算法
 
 
 ----------------
