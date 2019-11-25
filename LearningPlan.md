@@ -3,7 +3,7 @@
 ## **——学习资料——**
 
 ------------
-###编程
+### 编程
 #### Python
 - 1.[笨办法学 Python （Learn Python The Hard Way）](https://www.2cto.com/shouce/Pythonbbf/index.html)
 
