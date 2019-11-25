@@ -55,7 +55,7 @@
 - PyTorch
 	- 1.[PyTorch从入门到精通（首要参考）](https://github.com/amusi/PyTorch-From-Zero-To-One)
 	- 2.[pytorch_bits](https://github.com/jpeg729/pytorch_bits) : time-series prediction related examples.
-	- 3.[pytorch 中文网（含中文文档）](https://www.pytorchtutorial.com) 
+	- 3.[pytorch 中文网](https://www.pytorchtutorial.com); [中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
 	- 4.[the-incredible-pytorch（资料众多）](https://github.com/ritchieng/the-incredible-pytorch) ：极好的PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 	- 5.【开源书：PyTorch深度学习起步】[First-steps-towards-Deep-Learning: This is an open sourced book on deep learning.](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning)
 	- 6.[PyTorch深度实践教程-更新中](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch)
