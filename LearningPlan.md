@@ -5,7 +5,7 @@
 ------------
 ### 编程
 #### Python
-- 1.笨办法学 Python （Learn Python The Hard Way）[第一版](https://www.2cto.com/shouce/Pythonbbf/index.html)；[第二版](https://github.com/zedshaw/learn-python3-thw-code) 或者[看看别人的经验](https://github.com/lidianxiang/Learn_Python3_the_hard_way)
+- 1.笨办法学 Python （Learn Python The Hard Way）[第一版](https://www.2cto.com/shouce/Pythonbbf/index.html)；[第二版](https://github.com/zedshaw/learn-python3-thw-code) 或者[看看别人的经验](https://github.com/lidianxiang/Learn_Python3_the_hard_way)、[配套视频](https://www.bilibili.com/video/av25675370?p=1)
 
 #### 数据结构与算法
 - 1.《算法》第四版 Algorithms, 4th edition textbook [Java代码](https://github.com/kevin-wayne/algs4)
