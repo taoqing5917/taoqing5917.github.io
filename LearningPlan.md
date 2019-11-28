@@ -105,7 +105,7 @@
 - 新书:[《时序分析——数据、方法与应用/Time Series Analysis - Data, Methods, and Applications》](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications)
 
 - [Time-Series-Papers](https://github.com/bighuang624/Time-Series-Papers)：List of awesome papers about time series, mainly including algorithms based on machine learning | 收录时间序列分析中各个研究领域的高水平文章，主要包含基于机器学习的算法
-- 【基于 ARIMA, RNN, LSTM, GRU 等模型的短期电力负荷预测】：[Electric Load Forecasting - Load forcasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models](https://github.com/pyaf/load_forecasting)
+- **项目：基于 ARIMA, RNN, LSTM, GRU 等模型的短期电力负荷预测**：[Electric Load Forecasting - Load forcasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models](https://github.com/pyaf/load_forecasting)
 
 ----------------
 
