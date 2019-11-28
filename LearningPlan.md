@@ -126,6 +126,8 @@
 > 	 - [python 生成矢量图并导入word中:pdf->eps->emf](https://blog.csdn.net/qq_30708445/article/details/87856226)
 > - Markdown:[Markdown 教程](https://www.runoob.com/markdown/md-tutorial.html);[Markdown 中文文档](https://markdown-zh.readthedocs.io/en/latest/)
 > - [【个人简历资源大列表，包含简历常用例句】](https://github.com/resumejob/awesome-resume)
+> - 【LaTeX资源/模板集】[LaTeX Resources - Collection of LaTeX resources and examples](https://github.com/davidstutz/latex-resources)
+
 
 
 资料整理： **[陶青](index.md)**
