@@ -114,6 +114,7 @@
 > - [Colab Notebooks: 网站](https://www.google-colab.com/)
 > - [Awesome Google Colab项目](https://github.com/firmai/awesome-google-colab)
 > - [Awesome Machine Learning Jupyter Notebooks for Colab项目](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab)
+> - 【Colab Notebooks资源大列表】[Google Colaboratory Notebook and Repository Gallery](https://github.com/firmai/awesome-google-colab)
 
 ----------------
 
@@ -127,7 +128,7 @@
 > - Markdown:[Markdown 教程](https://www.runoob.com/markdown/md-tutorial.html);[Markdown 中文文档](https://markdown-zh.readthedocs.io/en/latest/)
 > - [【个人简历资源大列表，包含简历常用例句】](https://github.com/resumejob/awesome-resume)
 > - 【LaTeX资源/模板集】[LaTeX Resources - Collection of LaTeX resources and examples](https://github.com/davidstutz/latex-resources)
-> - 【Colab Notebooks资源大列表】[Google Colaboratory Notebook and Repository Gallery](https://github.com/firmai/awesome-google-colab)
+
 
 
 资料整理： **[陶青](index.md)**
