@@ -59,7 +59,7 @@
 	- 4.[the-incredible-pytorch（资料众多）](https://github.com/ritchieng/the-incredible-pytorch) ：极好的PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 	- 5.【开源书：PyTorch深度学习起步】[First-steps-towards-Deep-Learning: This is an open sourced book on deep learning.](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning)
 	- 6.[PyTorch深度实践教程-更新中](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch)
-
+	- 7.**新书**：[《Deep Learning with PyTorch》](https://pytorch.org/deep-learning-with-pytorch-thank-you)
 	
 - Keras
 	- 1.《Python深度学习（Deep Learning with Python）》[源代码](https://github.com/fchollet/deep-learning-with-python-notebooks)
