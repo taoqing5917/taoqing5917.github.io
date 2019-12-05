@@ -7,6 +7,13 @@
 #### Python
 - 1.笨办法学 Python （Learn Python The Hard Way）[第一版](https://www.2cto.com/shouce/Pythonbbf/index.html)；[第二版](https://github.com/zedshaw/learn-python3-thw-code) 或者[看看别人的经验](https://github.com/lidianxiang/Learn_Python3_the_hard_way)、[配套视频](https://www.bilibili.com/video/av25675370?p=1)
 
+#### Go
+- 1.[Go 语言教程](https://www.runoob.com/go/go-tutorial.html)；
+- 2.[《Go 入门指南》](https://github.com/unknwon/the-way-to-go_ZH_CN)；
+- 3.[Awesome Go](https://github.com/avelino/awesome-go)；
+
+
+
 #### 数据结构与算法
 - 1.《算法》第四版 Algorithms, 4th edition textbook [Java代码](https://github.com/kevin-wayne/algs4)
 - 2.《剑指 offer》的题目用[Java 语言](https://github.com/hackhu2019/offer)
