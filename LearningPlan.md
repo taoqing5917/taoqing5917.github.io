@@ -40,7 +40,7 @@
 	- [以《深度学习》习题为线索的 Tensorflow 2.0 深度学习实践](https://github.com/adhiraiyan/DeepLearningWithTF2.0)
 
 - 《动手学深度学习 李沐》
-	- 《动手学深度学习》[MXNet实现](https://zh.d2l.ai/index.html); [PyTorch实现](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+	- 《动手学深度学习》[MXNet实现](https://zh.d2l.ai/index.html); [PyTorch实现](https://github.com/ShusenTang/Dive-into-DL-PyTorch)；[TensorFlow 2.0实现](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
 
 - 《机器学习》（西瓜书）
 	- [《机器学习》（西瓜书）公式推导解析](https://github.com/datawhalechina/pumpkin-book)，[即：南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/)
