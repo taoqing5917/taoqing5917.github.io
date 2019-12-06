@@ -98,7 +98,7 @@
 	- 8.（重点/Jupyter/Colab）rainbow-is-all-you-need: [Step-by-step tutorials from DQN to Rainbow](https://github.com/Curt-Park/rainbow-is-all-you-need); [介绍](https://mp.weixin.qq.com/s?__biz=MzUyMjg4NjU5OQ==&mid=2247489130&idx=1&sn=9c866dd892058756a0656d0578f4b154&chksm=f9c45ac2ceb3d3d48be7ef4a040bed9a871eff3917a349b67d1ab11aff356291107df276007b&mpshare=1&scene=23&srcid=#rd);[简书](https://www.jianshu.com/p/1dfd84cd2e69)
 	- 9.【PyTorch深度强化学习教程】[Deep_RL_with_pytorch: A pytorch tutorial for DRL](https://github.com/sungyubkim/Deep_RL_with_pytorch)
 	- 10.【PyTorch实现的深度强化学习算法集】[PyTorch implementations of Deep Reinforcement Learning algorithms (DQN, DDQN, A2C, VPG, TRPO, PPO, DDPG, TD3, SAC, ASAC, TAC, ATAC)](https://github.com/dongminlee94/deep_rl)
-	- 10.【重点参考】深度强化学习实验室(DeepRL-Lab)[Deep Reinforcement Learning(深度强化学习)](https://github.com/NeuronDance/DeepRL)：最全深度强化学习资料（永久更新），整体分为12部分，包含书籍、课程、环境、框架、算法、开源项目、论文、应用等多个领域。
+	- 11.【重点参考】深度强化学习实验室(DeepRL-Lab)[Deep Reinforcement Learning(深度强化学习)](https://github.com/NeuronDance/DeepRL)：最全深度强化学习资料（永久更新），整体分为12部分，包含书籍、课程、环境、框架、算法、开源项目、论文、应用等多个领域。
 	
 
 ----------------
