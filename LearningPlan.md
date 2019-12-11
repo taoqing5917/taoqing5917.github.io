@@ -17,6 +17,8 @@
 #### 数据结构与算法
 - 1.《算法》第四版 Algorithms, 4th edition textbook [Java代码](https://github.com/kevin-wayne/algs4)
 - 2.《剑指 offer》的题目用[Java 语言](https://github.com/hackhu2019/offer)
+- 3.[Python数据结构与算法](https://github.com/prabhupant/python-ds)
+- 4.[数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
 
 
 #### 好的资源
