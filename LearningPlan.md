@@ -19,6 +19,7 @@
 - 2.《剑指 offer》的题目用[Java 语言](https://github.com/hackhu2019/offer)
 - 3.[Python数据结构与算法](https://github.com/prabhupant/python-ds)
 - 4.[数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
+- 5.[【Python算法与数据结构学习资源集】](https://github.com/MTrajK/coding-problems)
 
 
 #### 好的资源
@@ -112,10 +113,12 @@
 ----------------
 
 ### 时间序列预测
-- 新书:[《时序分析——数据、方法与应用/Time Series Analysis - Data, Methods, and Applications》](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications)
 
 - [Time-Series-Papers](https://github.com/bighuang624/Time-Series-Papers)：List of awesome papers about time series, mainly including algorithms based on machine learning | 收录时间序列分析中各个研究领域的高水平文章，主要包含基于机器学习的算法
 - **项目：基于 ARIMA, RNN, LSTM, GRU 等模型的短期电力负荷预测**：[Electric Load Forecasting - Load forcasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models](https://github.com/pyaf/load_forecasting)
+- [Python时序预测库](https://github.com/sky-uk/anticipy)
+- [Python电力系统分析包](https://github.com/PyPSA/PyPSA)
+
 
 ----------------
 
