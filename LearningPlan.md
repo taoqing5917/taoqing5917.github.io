@@ -7,10 +7,19 @@
 #### Python
 - 1.笨办法学 Python （Learn Python The Hard Way）[第一版](https://www.2cto.com/shouce/Pythonbbf/index.html)；[第二版](https://github.com/zedshaw/learn-python3-thw-code) 或者[看看别人的经验](https://github.com/lidianxiang/Learn_Python3_the_hard_way)、[配套视频](https://www.bilibili.com/video/av25675370?p=1)
 
-#### Go
-- 1.[Go 语言教程](https://www.runoob.com/go/go-tutorial.html)；
-- 2.[《Go 入门指南》](https://github.com/unknwon/the-way-to-go_ZH_CN)；
-- 3.[Awesome Go](https://github.com/avelino/awesome-go)；
+#### Java
+计算机核心知识点仓库
+- 1.[JavaGuide](https://snailclimb.gitee.io/javaguide/#/?id=java):Star 59.9k
+核心知识点很全，包括Java语言基础、网络、操作系统、数据库、数据结构与算法、系统设计相关，还有面经和资料。当作提纲来整理知识点非常ok。
+- 2.[CS-Notes](https://github.com/CyC2018/CS-Notes):Star 82k
+同上，面试所需知识点很全，Java基础、Leetcode和剑指offer算法、操作系统、网络、数据库、系统设计等都有。
+- 3.[advanced-java](https://github.com/doocs/advanced-java):Star 33.4k
+Java进阶知识，涵盖高并发、分布式、高可用、微服务等领域知识，复习完基础的可以好好看一下，里面的问题整理都很清楚详细。
+- 4.[EasyJob](https://github.com/Lemonjing/EasyJob):Star 1.9k
+知识点总结、算法题解，知识点算是面经整理了，很全，在时间不够的情况下面向面经复习很高效。
+- 5.[interview_internal_reference](https://github.com/0voice/interview_internal_reference):Star 22k
+互联网大厂的一些面经整理。
+- ``刷题相关``
 
 
 
