@@ -118,7 +118,7 @@
 - **项目：基于 ARIMA, RNN, LSTM, GRU 等模型的短期电力负荷预测**：[Electric Load Forecasting - Load forcasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models](https://github.com/pyaf/load_forecasting)
 - [Python时序预测库](https://github.com/sky-uk/anticipy)
 - [Python电力系统分析包](https://github.com/PyPSA/PyPSA)
-
+- [特征工程/特征选择简要指南(Python)](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)
 
 ----------------
 
