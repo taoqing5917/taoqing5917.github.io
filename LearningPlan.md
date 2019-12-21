@@ -19,7 +19,17 @@ Java进阶知识，涵盖高并发、分布式、高可用、微服务等领域�
 知识点总结、算法题解，知识点算是面经整理了，很全，在时间不够的情况下面向面经复习很高效。
 - 5.[interview_internal_reference](https://github.com/0voice/interview_internal_reference):Star 22k
 互联网大厂的一些面经整理。
+
 - ``刷题相关``
+	- 1.[算法仓库（刷题必备）](https://github.com/kdn251/interviews)：Star 41.1k
+	很多在线编程网站(“Online Judges”)，练习算法必备。
+	- 2.[LeetCode](https://github.com/grandyang/leetcode)：Star 2.1k
+	LeetCode上面算法的题解，很全，每道题给多种解法，思路也说的很清楚。
+	- 3.[ZXBlog](https://github.com/ZXZxin/ZXBlog)：Star 3.7k
+	算法部分很不错，LeetCode和剑指offer的题有图解和模板思路。
+	- 3.[LintCode](https://github.com/awangdev/LintCode)：Star 3.7k
+	LintCode上面算法的题解。
+
 
 
 
