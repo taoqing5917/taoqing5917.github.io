@@ -106,8 +106,8 @@
 
 ### 深度学习&强化学习资料
 - 深度学习
-	- 1.五天入门深度学习 [课程](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html);[代码](https://github.com/mlelarge/dataflowr)
-
+	- 五天入门深度学习 [课程](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html);[代码](https://github.com/mlelarge/dataflowr)
+	- [awesome-deep-learning: 深度学习最全资料集锦](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 
 - 强化学习
@@ -153,7 +153,6 @@
 
 ### 其他资料
 
-> - [awesome-deep-learning: 深度学习最全资料集锦](https://github.com/ChristosChristofidis/awesome-deep-learning)
 > - [李笑来：自学是门手艺（自学Python）](https://github.com/selfteaching/the-craft-of-selfteaching)
 > - 写论文时用Python画图的一些教程
 > 	 - [Python中画图时候的线类型](https://blog.csdn.net/qq_34940959/article/details/78488208)
