@@ -8,17 +8,18 @@
 - 1.笨办法学 Python （Learn Python The Hard Way）[第一版](https://www.2cto.com/shouce/Pythonbbf/index.html)；[第二版](https://github.com/zedshaw/learn-python3-thw-code) 或者[看看别人的经验](https://github.com/lidianxiang/Learn_Python3_the_hard_way)、[配套视频](https://www.bilibili.com/video/av25675370?p=1)
 
 #### Java
-计算机核心知识点仓库
-- 1.[JavaGuide](https://snailclimb.gitee.io/javaguide/#/?id=java):Star 59.9k
-核心知识点很全，包括Java语言基础、网络、操作系统、数据库、数据结构与算法、系统设计相关，还有面经和资料。当作提纲来整理知识点非常ok。
-- 2.[CS-Notes](https://github.com/CyC2018/CS-Notes):Star 82k
-同上，面试所需知识点很全，Java基础、Leetcode和剑指offer算法、操作系统、网络、数据库、系统设计等都有。
-- 3.[advanced-java](https://github.com/doocs/advanced-java):Star 33.4k
-Java进阶知识，涵盖高并发、分布式、高可用、微服务等领域知识，复习完基础的可以好好看一下，里面的问题整理都很清楚详细。
-- 4.[EasyJob](https://github.com/Lemonjing/EasyJob):Star 1.9k
-知识点总结、算法题解，知识点算是面经整理了，很全，在时间不够的情况下面向面经复习很高效。
-- 5.[interview_internal_reference](https://github.com/0voice/interview_internal_reference):Star 22k
-互联网大厂的一些面经整理。
+
+- ``计算机核心知识点仓库``
+	- 1.[JavaGuide](https://snailclimb.gitee.io/javaguide/#/?id=java):Star 59.9k
+	核心知识点很全，包括Java语言基础、网络、操作系统、数据库、数据结构与算法、系统设计相关，还有面经和资料。当作提纲来整理知识点非常ok。
+	- 2.[CS-Notes](https://github.com/CyC2018/CS-Notes):Star 82k
+	同上，面试所需知识点很全，Java基础、Leetcode和剑指offer算法、操作系统、网络、数据库、系统设计等都有。
+	- 3.[advanced-java](https://github.com/doocs/advanced-java):Star 33.4k
+	Java进阶知识，涵盖高并发、分布式、高可用、微服务等领域知识，复习完基础的可以好好看一下，里面的问题整理都很清楚详细。
+	- 4.[EasyJob](https://github.com/Lemonjing/EasyJob):Star 1.9k
+	知识点总结、算法题解，知识点算是面经整理了，很全，在时间不够的情况下面向面经复习很高效。
+	- 5.[interview_internal_reference](https://github.com/0voice/interview_internal_reference):Star 22k
+	互联网大厂的一些面经整理。
 
 - ``刷题相关``
 	- 1.[算法仓库（刷题必备）](https://github.com/kdn251/interviews)：Star 41.1k
@@ -120,7 +121,7 @@ Java进阶知识，涵盖高并发、分布式、高可用、微服务等领域�
 	- 8.（重点/Jupyter/Colab）rainbow-is-all-you-need: [Step-by-step tutorials from DQN to Rainbow](https://github.com/Curt-Park/rainbow-is-all-you-need); [介绍](https://mp.weixin.qq.com/s?__biz=MzUyMjg4NjU5OQ==&mid=2247489130&idx=1&sn=9c866dd892058756a0656d0578f4b154&chksm=f9c45ac2ceb3d3d48be7ef4a040bed9a871eff3917a349b67d1ab11aff356291107df276007b&mpshare=1&scene=23&srcid=#rd);[简书](https://www.jianshu.com/p/1dfd84cd2e69)
 	- 9.【PyTorch深度强化学习教程】[Deep_RL_with_pytorch: A pytorch tutorial for DRL](https://github.com/sungyubkim/Deep_RL_with_pytorch)
 	- 10.【PyTorch实现的深度强化学习算法集】[PyTorch implementations of Deep Reinforcement Learning algorithms (DQN, DDQN, A2C, VPG, TRPO, PPO, DDPG, TD3, SAC, ASAC, TAC, ATAC)](https://github.com/dongminlee94/deep_rl)
-	- 11.【重点参考】深度强化学习实验室(DeepRL-Lab)[Deep Reinforcement Learning(深度强化学习)](https://github.com/NeuronDance/DeepRL) | 最全深度强化学习资料（永久更新），整体分为12部分，包含书籍、课程、环境、框架、算法、开源项目、论文、应用等多个领域。
+	- 11.【重点参考】深度强化学习实验室(DeepRL-Lab)[Deep Reinforcement Learning(深度强化学习)](https://github.com/NeuronDance/DeepRL) :最全深度强化学习资料（永久更新），整体分为12部分，包含书籍、课程、环境、框架、算法、开源项目、论文、应用等多个领域。
 	
 
 ----------------
@@ -133,7 +134,7 @@ Java进阶知识，涵盖高并发、分布式、高可用、微服务等领域�
 
 ### 时间序列预测
 
-- [Time-Series-Papers](https://github.com/bighuang624/Time-Series-Papers)：List of awesome papers about time series, mainly including algorithms based on machine learning | 收录时间序列分析中各个研究领域的高水平文章，主要包含基于机器学习的算法
+- [Time-Series-Papers](https://github.com/bighuang624/Time-Series-Papers)：List of awesome papers about time series, mainly including algorithms based on machine learning/收录时间序列分析中各个研究领域的高水平文章，主要包含基于机器学习的算法
 - **项目：基于 ARIMA, RNN, LSTM, GRU 等模型的短期电力负荷预测**：[Electric Load Forecasting - Load forcasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models](https://github.com/pyaf/load_forecasting)
 - [Python时序预测库](https://github.com/sky-uk/anticipy)
 - [Python电力系统分析包](https://github.com/PyPSA/PyPSA)
