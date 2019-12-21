@@ -28,7 +28,7 @@
 	LeetCode上面算法的题解，很全，每道题给多种解法，思路也说的很清楚。
 	- 3.[ZXBlog](https://github.com/ZXZxin/ZXBlog)：Star 3.7k
 	算法部分很不错，LeetCode和剑指offer的题有图解和模板思路。
-	- 3.[LintCode](https://github.com/awangdev/LintCode)：Star 3.7k
+	- 4.[LintCode](https://github.com/awangdev/LintCode)：Star 3.7k
 	LintCode上面算法的题解。
 
 
