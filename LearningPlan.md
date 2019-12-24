@@ -6,6 +6,7 @@
 ### 编程
 #### Python
 - 1.笨办法学 Python （Learn Python The Hard Way）[第一版](https://www.2cto.com/shouce/Pythonbbf/index.html)；[第二版](https://github.com/zedshaw/learn-python3-thw-code) 或者[看看别人的经验](https://github.com/lidianxiang/Learn_Python3_the_hard_way)、[配套视频](https://www.bilibili.com/video/av25675370?p=1)
+- 2.[《Python进阶》（Intermediate Python 中文版）](https://github.com/eastlakeside/interpy-zh)
 
 #### Java
 
@@ -40,6 +41,8 @@
 - 3.[Python数据结构与算法](https://github.com/prabhupant/python-ds)
 - 4.[数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
 - 5.[【Python算法与数据结构学习资源集】](https://github.com/MTrajK/coding-problems)
+- 6.[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation):用动画的形式呈现解LeetCode题目的思路
+
 
 
 #### 好的资源
