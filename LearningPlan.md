@@ -77,7 +77,7 @@
 	
 - [《白话强化学习与Pytorch》代码](https://github.com/GAOYANGAU/DRLPytorch)
 	
-- 《深度强化学习实战》[随书代码Code from the Deep Reinforcement Learning in Action book from Manning, Inc](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction)
+- （Jupyter）《深度强化学习实战》[随书代码Code from the Deep Reinforcement Learning in Action book from Manning, Inc](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction)
 
 - 《深度强化学习实践》[随书代码: Hands-on Deep Reinforcement Learning, published by Packt](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 
