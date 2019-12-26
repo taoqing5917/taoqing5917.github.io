@@ -144,6 +144,8 @@
 - [Python时序预测库](https://github.com/sky-uk/anticipy)
 - [Python电力系统分析包](https://github.com/PyPSA/PyPSA)
 - [特征工程/特征选择简要指南(Python)](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)
+- [Uncertainty Quantification in Deep Learning](https://github.com/ahmedmalaa/uncertainty):深度学习模型预测不确定性估计相关文献资源集锦
+
 
 ----------------
 
