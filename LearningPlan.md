@@ -7,6 +7,8 @@
 #### Python
 - 1.笨办法学 Python （Learn Python The Hard Way）[第一版](https://www.2cto.com/shouce/Pythonbbf/index.html)；[第二版](https://github.com/zedshaw/learn-python3-thw-code) 或者[看看别人的经验](https://github.com/lidianxiang/Learn_Python3_the_hard_way)、[配套视频](https://www.bilibili.com/video/av25675370?p=1)
 - 2.[《Python进阶》（Intermediate Python 中文版）](https://github.com/eastlakeside/interpy-zh)
+- 3.《Python 数据科学手册》（Python Data Science Handbook）[开源书稿及代码](https://github.com/jakevdp/PythonDataScienceHandbook)：豆瓣评分9.3
+
 
 #### Java
 
