@@ -146,6 +146,15 @@
 - [特征工程/特征选择简要指南(Python)](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)
 - [Uncertainty Quantification in Deep Learning](https://github.com/ahmedmalaa/uncertainty):深度学习模型预测不确定性估计相关文献资源集锦
 
+- **区间预测2020年1月3日**
+	- [High-Quality Prediction Intervals for Deep Learning](https://github.com/TeaPearce/Deep_Learning_Prediction_Intervals)：Code accompanying the ICML 2018 paper High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach https://arxiv.org/abs/1802.07167.
+	- [regression-prediction-interval](https://github.com/shahejokarian/regression-prediction-interval)：使用scikit-learn、numpy和panda库构建具有预测区间的线性回归。
+	- [prediction-interval-NN](https://github.com/fishjh2/prediction-interval-NN)：神经网络回归问题的置信区间和预测区间。
+	- [Regression-Prediction-Interval](https://github.com/1suraj/Regression-Prediction-Interval)：计算回归预测区间
+	- [Monte Carlo Simulation for Empirically Derived Stock Price Prediction Intervals](https://github.com/jkclem/Monte-Carlo-Simulation-for-Generating-Stock-Price-Prediction-Intervals):基于蒙特卡罗模拟经验的股票价格预测区间
+	- [prediction_intervals](https://github.com/seanmbayley/prediction_intervals)
+	- [Prediction-Intervals](https://github.com/mohammad-hasani/Prediction-Intervals)
+
 
 ----------------
 
