@@ -134,6 +134,8 @@
 ### 网络课程
 - [CS234: Reinforcement Learning Winter 2019](http://web.stanford.edu/class/cs234/index.html) [B站：【斯坦福课程：强化学习】](https://www.bilibili.com/video/av47903063/)
 - [李宏毅 强化学习](https://www.bilibili.com/video/av24724071)
+- David Silver's course on Reiforcement Learning [link](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+
 
 ----------------
 
@@ -176,7 +178,7 @@
 > - Markdown:[Markdown 教程](https://www.runoob.com/markdown/md-tutorial.html);[Markdown 中文文档](https://markdown-zh.readthedocs.io/en/latest/)
 > - [【个人简历资源大列表，包含简历常用例句】](https://github.com/resumejob/awesome-resume)
 > - 【LaTeX资源/模板集】[LaTeX Resources - Collection of LaTeX resources and examples](https://github.com/davidstutz/latex-resources)
-> - [【《Python机器学习(第三版)》随书代码】](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+> - 《Python机器学习(第三版)》 [随书代码](https://github.com/rasbt/python-machine-learning-book-3rd-edition):——增加了TensorFlow 2内容、GANs、强化学习和最佳实践等内容
 
 
 
