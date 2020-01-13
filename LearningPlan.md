@@ -156,8 +156,13 @@
 	- [prediction-interval-NN](https://github.com/fishjh2/prediction-interval-NN)：神经网络回归问题的置信区间和预测区间。
 	- [Regression-Prediction-Interval](https://github.com/1suraj/Regression-Prediction-Interval)：计算回归预测区间
 	- [Monte Carlo Simulation for Empirically Derived Stock Price Prediction Intervals](https://github.com/jkclem/Monte-Carlo-Simulation-for-Generating-Stock-Price-Prediction-Intervals):基于蒙特卡罗模拟经验的股票价格预测区间
-	- [prediction_intervals](https://github.com/seanmbayley/prediction_intervals)
-	- [Prediction-Intervals](https://github.com/mohammad-hasani/Prediction-Intervals)
+	- [seanmbayley/prediction_intervals](https://github.com/seanmbayley/prediction_intervals)
+	- [mohammad-hasani/Prediction-Intervals](https://github.com/mohammad-hasani/Prediction-Intervals)
+	- [cruvadom/Prediction_Intervals](https://github.com/cruvadom/Prediction_Intervals)
+	
+	- 1月13日
+	- [How to define a prediction interval for LSTM network for time series](https://github.com/rtaubes/lstm-1)
+	
 
 
 ----------------
