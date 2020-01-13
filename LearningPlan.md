@@ -160,7 +160,11 @@
 	- [mohammad-hasani/Prediction-Intervals](https://github.com/mohammad-hasani/Prediction-Intervals)
 	- [cruvadom/Prediction_Intervals](https://github.com/cruvadom/Prediction_Intervals)
 	
-	- 1月13日
+	
+	
+- **不确定性估计2020年1月13日**
+	- [janisgp/Uncertainty_DeepLearning(https://github.com/janisgp/Uncertainty_DeepLearning)：Collection of implementations regarding uncertainty prediction in deep learning
+	- [shz9/csc2541-ml-project](https://github.com/shz9/csc2541-ml-project)：Modeling Uncertainty in RNNs for Time Series Forecasting
 	- [How to define a prediction interval for LSTM network for time series](https://github.com/rtaubes/lstm-1)
 	
 
