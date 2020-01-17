@@ -49,6 +49,7 @@
 - 4.[数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
 - 5.[【Python算法与数据结构学习资源集】](https://github.com/MTrajK/coding-problems)
 - 6.[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation):用动画的形式呈现解LeetCode题目的思路
+- 7[【C/C++ /Python/Go/JS/Java多语言LeetCode解题参考】](https://github.com/luliyucoordinate/Leetcode)
 
 
 
@@ -102,6 +103,7 @@
 	- 5.【开源书：PyTorch深度学习起步】[First-steps-towards-Deep-Learning: This is an open sourced book on deep learning.](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning)
 	- 6.[PyTorch深度实践教程-更新中](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch)
 	- 7.**新书**：[《Deep Learning with PyTorch》](https://pytorch.org/deep-learning-with-pytorch-thank-you)
+	- 8.[Awesome-Pytorch-list｜厉害的Pytorch项目](http://www.lib4dev.in/info/xavier-zy/Awesome-pytorch-list-CNVersion/206260766)  [Github](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion#awesome-pytorch-list%EF%BD%9C%E5%8E%89%E5%AE%B3%E7%9A%84pytorch%E9%A1%B9%E7%9B%AE)
 	
 - Keras
 	- 1.《Python深度学习（Deep Learning with Python）》[源代码](https://github.com/fchollet/deep-learning-with-python-notebooks)
