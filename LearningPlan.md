@@ -103,7 +103,7 @@
 	- 5.【开源书：PyTorch深度学习起步】[First-steps-towards-Deep-Learning: This is an open sourced book on deep learning.](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning)
 	- 6.[PyTorch深度实践教程-更新中](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch)
 	- 7.**新书**：[《Deep Learning with PyTorch》](https://pytorch.org/deep-learning-with-pytorch-thank-you)
-	- 8.[Awesome-Pytorch-list｜厉害的Pytorch项目](http://www.lib4dev.in/info/xavier-zy/Awesome-pytorch-list-CNVersion/206260766)  [Github](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion#awesome-pytorch-list%EF%BD%9C%E5%8E%89%E5%AE%B3%E7%9A%84pytorch%E9%A1%B9%E7%9B%AE)
+	- 8.[`Awesome-Pytorch-list｜厉害的Pytorch项目`](http://www.lib4dev.in/info/xavier-zy/Awesome-pytorch-list-CNVersion/206260766)  [Github](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion#awesome-pytorch-list%EF%BD%9C%E5%8E%89%E5%AE%B3%E7%9A%84pytorch%E9%A1%B9%E7%9B%AE)
 	
 - Keras
 	- 1.《Python深度学习（Deep Learning with Python）》[源代码](https://github.com/fchollet/deep-learning-with-python-notebooks)
@@ -197,6 +197,7 @@
 > - [【个人简历资源大列表，包含简历常用例句】](https://github.com/resumejob/awesome-resume)
 > - 【LaTeX资源/模板集】[LaTeX Resources - Collection of LaTeX resources and examples](https://github.com/davidstutz/latex-resources)
 > - 《Python机器学习(第三版)》 [随书代码](https://github.com/rasbt/python-machine-learning-book-3rd-edition):——增加了TensorFlow 2内容、GANs、强化学习和最佳实践等内容
+> - [deep-forecast-pytorch: 使用LSTMs进行风速预测](https://github.com/Wizaron/deep-forecast-pytorch)
 
 
 
