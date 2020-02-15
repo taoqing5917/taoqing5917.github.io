@@ -51,6 +51,7 @@
 - 6.[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation):用动画的形式呈现解LeetCode题目的思路
 - 7[【C/C++ /Python/Go/JS/Java多语言LeetCode解题参考】](https://github.com/luliyucoordinate/Leetcode)
 - 8.[用 Python 手写十大经典排序算法](https://mp.weixin.qq.com/s/QaflNoxiI_FS4Ij8jg1KrQ):常见的内部排序算法有：插入排序、希尔排序、选择排序、冒泡排序、归并排序、快速排序、堆排序、基数排序等。
+- 9.[leetcodebook](https://github.com/huxiaoman7/leetcodebook):leetcode 1~400知识点&题型总结&leetcode对应题表
 
 
 
@@ -61,6 +62,8 @@
 - 3.[2019_algorithm_intern_information](https://github.com/HarleysZhang/2019_algorithm_intern_information)：2020年的算法实习岗位/校招公司信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结
 - 4.[Awesome-algorithm-interview](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#resume-template)：资料齐全，含算法、机器学习、深度学习、C/C++、Python、简历等
 - 5.[Project Based Learning](https://github.com/tuvtran/project-based-learning)：该资料主要汇总整理了一系列编程教程，教你如何从零开始构建一个应用，其中包含 C、C++、Java、PHP、JavaScript、Python 等主流编程语言教程。
+- 6.[人工智能实战就业(面试)学习路线图](https://github.com/tangyudi/Ai-learn)：人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
+
 
 
 ------------
