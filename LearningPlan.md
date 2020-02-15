@@ -50,6 +50,8 @@
 - 5.[【Python算法与数据结构学习资源集】](https://github.com/MTrajK/coding-problems)
 - 6.[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation):用动画的形式呈现解LeetCode题目的思路
 - 7[【C/C++ /Python/Go/JS/Java多语言LeetCode解题参考】](https://github.com/luliyucoordinate/Leetcode)
+- 8.[用 Python 手写十大经典排序算法](https://mp.weixin.qq.com/s/QaflNoxiI_FS4Ij8jg1KrQ):常见的内部排序算法有：插入排序、希尔排序、选择排序、冒泡排序、归并排序、快速排序、堆排序、基数排序等。
+
 
 
 
@@ -174,6 +176,11 @@
 	- [shz9/csc2541-ml-project](https://github.com/shz9/csc2541-ml-project)：Modeling Uncertainty in RNNs for Time Series Forecasting
 	- [How to define a prediction interval for LSTM network for time series](https://github.com/rtaubes/lstm-1)
 	
+- **时序2020年2月15日**
+	- [《Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case》N Wu, B Green, X Ben, S O'Banion [Google] (2020) ](https://arxiv.org/abs/2001.08317)
+	- [《Multi-label Prediction in Time Series Data using Deep Neural Networks》W Zhang, D K. Jha, E Laftchiev, D Nikovski [Cornell University & Mitsubishi Electric Research Labs (MERL)] (2020)](https://arxiv.org/abs/2001.10098)
+	- [【深度学习时序预测实例教程】](https://github.com/Azure/DeepLearningForTimeSeriesForecasting):Deep Learning for Time Series Forecasting - A tutorial demonstrating how to implement deep learning models for time series forecasting' by Microsoft Azure GitHub
+
 
 
 ----------------
@@ -199,6 +206,10 @@
 > - 《Python机器学习(第三版)》 [随书代码](https://github.com/rasbt/python-machine-learning-book-3rd-edition):——增加了TensorFlow 2内容、GANs、强化学习和最佳实践等内容
 > - [deep-forecast-pytorch: 使用LSTMs进行风速预测](https://github.com/Wizaron/deep-forecast-pytorch)
 
+
+- **资料搜集2020年2月15日**
+	- [【《深度强化实战第二版》随书代码】](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition)
+	- [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
 
 
 资料整理： **[陶青](index.md)**
