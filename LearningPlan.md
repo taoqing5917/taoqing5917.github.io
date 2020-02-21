@@ -34,6 +34,11 @@
 	- 4.[LintCode](https://github.com/awangdev/LintCode)：Star 3.7k
 	LintCode上面算法的题解。
 
+
+- ``书籍``
+       - [《On Java 8》](https://lingcoder.github.io/OnJava8/#/) 中文版，是事实上的《Java 编程思想》第5版。
+
+
 - ``项目``
 	- 1.[newbee-mall 项目（新蜂商城）](https://github.com/newbee-ltd/newbee-mall)：基于 Spring Boot 2.X 开发的电商系统。含有功能完备、流程完整的前台商城系统及后台管理系统，适合各个阶段的 Java 开发者学习。
 	- 2.[Spring Boot Projects](https://github.com/ZHENFENG13/spring-boot-projects)：该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的前后端分离实践项目，线上博客项目，企业大型商城系统等，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。 
