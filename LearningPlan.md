@@ -36,7 +36,7 @@
 
 
 - ``书籍``
-	- 4.[《On Java 8》](https://lingcoder.github.io/OnJava8/#/) 中文版，是事实上的《Java 编程思想》第5版。
+	- [《On Java 8》](https://lingcoder.github.io/OnJava8/#/) 中文版，是事实上的《Java 编程思想》第5版。
 
 
 - ``项目``
