@@ -57,9 +57,9 @@
 - 4.[数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
 - 5.[【Python算法与数据结构学习资源集】](https://github.com/MTrajK/coding-problems)
 - 6.[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation):用动画的形式呈现解LeetCode题目的思路
-- 7[【C/C++ /Python/Go/JS/Java多语言LeetCode解题参考】](https://github.com/luliyucoordinate/Leetcode)
+- 7~~[【C/C++ /Python/Go/JS/Java多语言LeetCode解题参考】](https://github.com/luliyucoordinate/Leetcode)：目前没有Java实现
 - 8.[用 Python 手写十大经典排序算法](https://mp.weixin.qq.com/s/QaflNoxiI_FS4Ij8jg1KrQ):常见的内部排序算法有：插入排序、希尔排序、选择排序、冒泡排序、归并排序、快速排序、堆排序、基数排序等。
-- 9.[leetcodebook](https://github.com/huxiaoman7/leetcodebook):leetcode 1~400知识点&题型总结&leetcode对应题表
+- 9.~~[leetcodebook](https://github.com/huxiaoman7/leetcodebook):leetcode 1~400知识点&题型总结&leetcode对应题表(好久没更新了)
 
 
 
