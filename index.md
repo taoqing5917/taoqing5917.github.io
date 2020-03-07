@@ -55,3 +55,9 @@
 - [time-series-forecasting（**深度学习+机器学习 时间序列预测**）](https://github.com/taoqing5917/time-series-forecasting)
 - **深度强化学习新能源发电储能控制**
 
+-------------
+
+### 学习资料整理
+- 关于[AI&深度学习&机器学习](AI&DL.md)
+- 关于[2021校招](job2021.md)
+- 关于[时间学列预测](timeseriesforecasting.md)
