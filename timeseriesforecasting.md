@@ -30,7 +30,5 @@
 	- [《Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case》N Wu, B Green, X Ben, S O'Banion [Google] (2020) ](https://arxiv.org/abs/2001.08317)
 	- [《Multi-label Prediction in Time Series Data using Deep Neural Networks》W Zhang, D K. Jha, E Laftchiev, D Nikovski [Cornell University & Mitsubishi Electric Research Labs (MERL)] (2020)](https://arxiv.org/abs/2001.10098)
 	- [【深度学习时序预测实例教程】](https://github.com/Azure/DeepLearningForTimeSeriesForecasting):Deep Learning for Time Series Forecasting - A tutorial demonstrating how to implement deep learning models for time series forecasting' by Microsoft Azure GitHub
-
-- **时序2020年2月15日**
 	- [基于PyTorch的概率时序预测框架](https://github.com/zalandoresearch/pytorch-ts)：PyTorch based Probabilistic Time Series forecasting framework based on GluonTS backend
-	- [Scikit-Learn机器学习培训课程资料](https://github.com/INRIA/scikit-learn-mooc/tree/master/notebooks)
+
