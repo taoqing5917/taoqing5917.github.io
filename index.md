@@ -60,4 +60,4 @@
 ### 学习资料整理
 - 关于[AI&深度学习&机器学习](AI&DL.md)
 - 关于[2021校招](job2021.md)
-- 关于[时间学列预测](timeseriesforecasting.md)
+- 关于[时间序列预测](timeseriesforecasting.md)
