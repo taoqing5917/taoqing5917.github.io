@@ -87,6 +87,6 @@
 
 
 ### 20200319收集
-- [Intro to Reinforcement Learning (强化学习纲要)](https://github.com/zhoubolei/introRL) ：这是一个视频课程，周博磊讲解，参考书籍为《强化学习（第二版）》
+- [Intro to Reinforcement Learning (强化学习纲要)](https://github.com/zhoubolei/introRL) ：这是一个视频课程，周博磊讲解，参考书籍为《强化学习（第二版）》；以PyTorch实现。
 - [Pytorch教程资料(Jupyter Notebooks)](https://github.com/Tessellate-Imaging/Pytorch_Tutorial)
 - [Catalyst(PyTorch深度学习/强化学习研究框架)相关资源大列表](https://github.com/catalyst-team/awesome-catalyst-list)
