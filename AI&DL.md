@@ -53,6 +53,7 @@
 - Scikit-learn
 	- [scikit-learn (sklearn) 官方文档中文版](https://sklearn.apachecn.org/#/)
 	- [官网](https://scikit-learn.org/stable/index.html)
+	- [Scikit-learn机器学习培训课程资料](https://github.com/INRIA/scikit-learn-mooc/tree/master/notebooks)
 
 
 ----------------
