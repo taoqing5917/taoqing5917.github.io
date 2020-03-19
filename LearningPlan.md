@@ -44,9 +44,9 @@
 		- 2.[Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
 	- 配套课程：[《强化学习纲要》（周博磊）](https://github.com/zhoubolei/introRL)
 - **PyTorch**
-	- 《强化学习（第二版）》
+	- 。。。
 
 - 计算机网络
-- 。。。
+- 算法与数据结构：极客大学-算法训练营
 
 资料整理： **[陶青](index.md)**
