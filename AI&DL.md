@@ -84,3 +84,8 @@
 - [李宏毅 强化学习](https://www.bilibili.com/video/av24724071)
 - David Silver's course on Reiforcement Learning [link](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
 
+
+### 20200319收集
+- [Intro to Reinforcement Learning (强化学习纲要)](https://github.com/zhoubolei/introRL) 
+- [Pytorch教程资料(Jupyter Notebooks)](https://github.com/Tessellate-Imaging/Pytorch_Tutorial)
+- [Catalyst(PyTorch深度学习/强化学习研究框架)相关资源大列表](https://github.com/catalyst-team/awesome-catalyst-list)
