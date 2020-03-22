@@ -39,4 +39,9 @@
 	- [dvassall/Forecasting_Error_Codes](https://github.com/dvassall/Forecasting_Error_Codes):Sample data formatting and model construction codes for prediction of wind speed forecasting error as described in "Utilizing Physics-Based Input Features within a Machine Learning Model to Predict Wind Speed Forecasting Error".
 	- [cigroup-ol/windml](https://github.com/cigroup-ol/windml):The windML framework provides an easy-to-use access to wind data sources within the Python world, building upon numpy, scipy, sklearn, and matplotlib. Renewable Wind Energy, Forecasting, Prediction http://www.windml.org
 	- [rasnim/Wind_generation_prediction_using_machine_learning](https://github.com/rasnim/Wind_generation_prediction_using_machine_learning):Wind power generation prediction based on weather forecast data using deep neural networks.
+	- [madsenmj/ml-prediction-uncertainty](https://github.com/madsenmj/ml-prediction-uncertainty):An introduction to uncertainties in machine-learning predictions.
+	- [YuRiTan/prediction-uncertainty](https://github.com/YuRiTan/prediction-uncertainty):A frequentist approach to prediction uncertainty,含PyTorch实现。
+	- [josiahdavis/quantifying-uncertainty](https://github.com/josiahdavis/quantifying-uncertainty)：Some experiments on various methods for evaluating uncertainty in Deep Learning Systems.
+	- [ahilbers/bootstrap_uncertainty_quantification](https://github.com/ahilbers/bootstrap_uncertainty_quantification):论文实现数据与代码[arXiv:1912.10326](https://arxiv.org/abs/1912.10326)Quantifying demand and weather uncertainty in power system models using the m out of n bootstrap
+
 	
