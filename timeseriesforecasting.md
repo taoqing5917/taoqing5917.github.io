@@ -32,3 +32,11 @@
 	- [【深度学习时序预测实例教程】](https://github.com/Azure/DeepLearningForTimeSeriesForecasting):Deep Learning for Time Series Forecasting - A tutorial demonstrating how to implement deep learning models for time series forecasting' by Microsoft Azure GitHub
 	- [基于PyTorch的概率时序预测框架](https://github.com/zalandoresearch/pytorch-ts)：PyTorch based Probabilistic Time Series forecasting framework based on GluonTS backend
 
+
+- **时序2020年3月22日**
+	- [Jeevesh8/GHI-prediction](https://github.com/Jeevesh8/GHI-prediction):PyTorch Code for running various time series models for different time stamps and confidence intervals for Solar Irradiance prediction.
+	- [How to define a prediction interval](https://github.com/rtaubes/lstm-1):How to define a prediction interval for LSTM network for time series.以均值、方差的方式构建区间。
+	- [dvassall/Forecasting_Error_Codes](https://github.com/dvassall/Forecasting_Error_Codes):Sample data formatting and model construction codes for prediction of wind speed forecasting error as described in "Utilizing Physics-Based Input Features within a Machine Learning Model to Predict Wind Speed Forecasting Error".
+	- [cigroup-ol/windml](https://github.com/cigroup-ol/windml):The windML framework provides an easy-to-use access to wind data sources within the Python world, building upon numpy, scipy, sklearn, and matplotlib. Renewable Wind Energy, Forecasting, Prediction http://www.windml.org
+	- [rasnim/Wind_generation_prediction_using_machine_learning](https://github.com/rasnim/Wind_generation_prediction_using_machine_learning):Wind power generation prediction based on weather forecast data using deep neural networks.
+	
