@@ -10,7 +10,6 @@
 - [Uncertainty Quantification in Deep Learning](https://github.com/ahmedmalaa/uncertainty):深度学习模型预测不确定性估计相关文献资源集锦
 
 - **区间预测2020年1月3日**
-	- [High-Quality Prediction Intervals for Deep Learning](https://github.com/TeaPearce/Deep_Learning_Prediction_Intervals)：Code accompanying the ICML 2018 paper High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach https://arxiv.org/abs/1802.07167.
 	- [regression-prediction-interval](https://github.com/shahejokarian/regression-prediction-interval)：使用scikit-learn、numpy和panda库构建具有预测区间的线性回归。
 	- [prediction-interval-NN](https://github.com/fishjh2/prediction-interval-NN)：神经网络回归问题的置信区间和预测区间。
 	- [Regression-Prediction-Interval](https://github.com/1suraj/Regression-Prediction-Interval)：计算回归预测区间
@@ -42,14 +41,20 @@
 	- [madsenmj/ml-prediction-uncertainty](https://github.com/madsenmj/ml-prediction-uncertainty):An introduction to uncertainties in machine-learning predictions.
 	- [YuRiTan/prediction-uncertainty](https://github.com/YuRiTan/prediction-uncertainty):A frequentist approach to prediction uncertainty,含PyTorch实现。
 	- [josiahdavis/quantifying-uncertainty](https://github.com/josiahdavis/quantifying-uncertainty)：Some experiments on various methods for evaluating uncertainty in Deep Learning Systems.
-	- [ahilbers/bootstrap_uncertainty_quantification](https://github.com/ahilbers/bootstrap_uncertainty_quantification):论文实现数据与代码[arXiv:1912.10326](https://arxiv.org/abs/1912.10326)Quantifying demand and weather uncertainty in power system models using the m out of n bootstrap
+	
 
 	
 - **4月份 汇报 收集**
-	- [3springs/attentive-neural-processes](https://github.com/3springs/attentive-neural-processes):论文["Recurrent Attentive Neural Process for Sequential Data"](https://arxiv.org/abs/1910.09323)的实现。
+
 	- [shz9/csc2541-ml-project](https://github.com/shz9/csc2541-ml-project):Modeling Uncertainty in RNNs for Time Series Forecasting。
 	- [pytorch-PPUU](https://github.com/Atcold/pytorch-PPUU):Implementing Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic in PyTorch.(暂时不看)
 	- [facebookresearch/SingleModelUncertainty](https://github.com/facebookresearch/SingleModelUncertainty):Source code for "Single-Model Uncertainties for Deep Learning", by Natasa Tagasovska and David Lopez-Paz, NeurIPS 2019.
 	- [janisgp/Uncertainty_DeepLearning](https://github.com/janisgp/Uncertainty_DeepLearning):Collection of implementations regarding uncertainty prediction in deep learning 重点看
-	-[satyanshukla/Time-Series-Prediction-with-Uncertainty](https://github.com/satyanshukla/Time-Series-Prediction-with-Uncertainty):Time Series Prediction with Uncertainty Estimates
+	- [satyanshukla/Time-Series-Prediction-with-Uncertainty](https://github.com/satyanshukla/Time-Series-Prediction-with-Uncertainty):Time Series Prediction with Uncertainty Estimates
+	
+- **一些论文及实现**
+	- [3springs/attentive-neural-processes](https://github.com/3springs/attentive-neural-processes):论文["Recurrent Attentive Neural Process for Sequential Data"](https://arxiv.org/abs/1910.09323)的实现。
+	- [ahilbers/bootstrap_uncertainty_quantification](https://github.com/ahilbers/bootstrap_uncertainty_quantification):论文实现数据与代码[arXiv:1912.10326](https://arxiv.org/abs/1912.10326)Quantifying demand and weather uncertainty in power system models using the m out of n bootstrap
+	- [High-Quality Prediction Intervals for Deep Learning](https://github.com/TeaPearce/Deep_Learning_Prediction_Intervals)：Code accompanying the ICML 2018 paper High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach https://arxiv.org/abs/1802.07167.
 	- [JKDomoguen/Uncertainty-Aware-Pytorch-Implem](https://github.com/JKDomoguen/Uncertainty-Aware-Pytorch-Implem):The pytorch implementation of paper "Uncertainty-Aware Attention for Reliable Interpretation and Prediction" 
+	
