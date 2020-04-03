@@ -43,6 +43,7 @@
 	- 6.[PyTorch深度实践教程-更新中](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch)
 	- 7.**新书**：[《Deep Learning with PyTorch》](https://pytorch.org/deep-learning-with-pytorch-thank-you)
 	- 8.[`Awesome-Pytorch-list｜厉害的Pytorch项目`](http://www.lib4dev.in/info/xavier-zy/Awesome-pytorch-list-CNVersion/206260766)  [Github](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion#awesome-pytorch-list%EF%BD%9C%E5%8E%89%E5%AE%B3%E7%9A%84pytorch%E9%A1%B9%E7%9B%AE)
+	- [vahidk/EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch#modules):高效PyTorch：PyTorch教程与最佳实践集锦
 	
 - Keras
 	- 1.《Python深度学习（Deep Learning with Python）》[源代码](https://github.com/fchollet/deep-learning-with-python-notebooks)
