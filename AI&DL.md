@@ -78,6 +78,8 @@
 	- 10.【PyTorch实现的深度强化学习算法集】[PyTorch implementations of Deep Reinforcement Learning algorithms (DQN, DDQN, A2C, VPG, TRPO, PPO, DDPG, TD3, SAC, ASAC, TAC, ATAC)](https://github.com/dongminlee94/deep_rl)
 	- 11.【重点参考】深度强化学习实验室(DeepRL-Lab)[Deep Reinforcement Learning(深度强化学习)](https://github.com/NeuronDance/DeepRL) :最全深度强化学习资料（永久更新），整体分为12部分，包含书籍、课程、环境、框架、算法、开源项目、论文、应用等多个领域。
 	- 12.【强化学习教程(Colab)】[Stable Baselines RL tutorial-JNRR19](https://github.com/araffin/rl-tutorial-jnrr19) :Stable-Baselines reinforcement learning tutorial for Journées Nationales de la Recherche en Robotique 2019
+	- 13. [higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure):DQN Adventure: from Zero to State of the Art/Pytorch Implementation of DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL.
+
 
 ----------------
 
