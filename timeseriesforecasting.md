@@ -11,6 +11,7 @@
 	- [Uncertainty Quantification in Deep Learning](https://github.com/ahmedmalaa/uncertainty):深度学习模型预测不确定性估计相关文献资源集锦
 	- [janisgp/Uncertainty_DeepLearning](https://github.com/janisgp/Uncertainty_DeepLearning)：Collection of implementations regarding uncertainty prediction in deep learning
 	- [基于PyTorch的概率时序预测框架](https://github.com/zalandoresearch/pytorch-ts)：PyTorch based Probabilistic Time Series forecasting framework based on GluonTS backend
+	- [microsoft/forecasting](https://github.com/microsoft/forecasting):时间序列预测最佳实践与示例。
 	- [【深度学习时序预测实例教程】](https://github.com/Azure/DeepLearningForTimeSeriesForecasting):Deep Learning for Time Series Forecasting - A collection of examples for using DNNs for time series forecasting with Keras. by Microsoft Azure GitHub
 	- [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series):**深度学习时序预测论文/代码/数据集/实验资源列表**
 
