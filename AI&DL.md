@@ -61,7 +61,7 @@
 
 ### 深度学习&强化学习资料
 - 深度学习
-	- 五天入门深度学习 [课程](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html);[代码](https://github.com/mlelarge/dataflowr)
+	- 五天入门深度学习 [课程](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html);[代码](https://github.com/mlelarge/dataflowr): Hands-on tour to deep learning with PyTorch
 	- [awesome-deep-learning: 深度学习最全资料集锦](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 
