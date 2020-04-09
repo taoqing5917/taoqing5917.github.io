@@ -45,7 +45,7 @@
 	- [shz9/csc2541-ml-project](https://github.com/shz9/csc2541-ml-project):Modeling Uncertainty in RNNs for Time Series Forecasting。
 	- [pytorch-PPUU](https://github.com/Atcold/pytorch-PPUU):Implementing Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic in PyTorch.(暂时不看)
 	- [janisgp/Uncertainty_DeepLearning](https://github.com/janisgp/Uncertainty_DeepLearning):Collection of implementations regarding uncertainty prediction in deep learning 重点看
-	- [satyanshukla/Time-Series-Prediction-with-Uncertainty](https://github.com/satyanshukla/Time-Series-Prediction-with-Uncertainty):Time Series Prediction with Uncertainty Estimates
+	- ~~[satyanshukla/Time-Series-Prediction-with-Uncertainty](https://github.com/satyanshukla/Time-Series-Prediction-with-Uncertainty):Time Series Prediction with Uncertainty Estimates （没写完整，不看了）~~
 	
 - **一些论文及实现**
 	- [3springs/attentive-neural-processes](https://github.com/3springs/attentive-neural-processes):论文["Recurrent Attentive Neural Process for Sequential Data"](https://arxiv.org/abs/1910.09323)的实现。(已下载)
