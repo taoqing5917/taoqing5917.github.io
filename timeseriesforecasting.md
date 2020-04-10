@@ -51,7 +51,6 @@
 	- [3springs/attentive-neural-processes](https://github.com/3springs/attentive-neural-processes):论文["Recurrent Attentive Neural Process for Sequential Data"](https://arxiv.org/abs/1910.09323)的实现。(已下载)
 	- [ahilbers/bootstrap_uncertainty_quantification](https://github.com/ahilbers/bootstrap_uncertainty_quantification):论文实现数据与代码[arXiv:1912.10326](https://arxiv.org/abs/1912.10326)Quantifying demand and weather uncertainty in power system models using the m out of n bootstrap。(已下载)
 	- [High-Quality Prediction Intervals for Deep Learning](https://github.com/TeaPearce/Deep_Learning_Prediction_Intervals)：Code accompanying the ICML 2018 paper High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach https://arxiv.org/abs/1802.07167.(已下载)
-	- [facebookresearch/SingleModelUncertainty](https://github.com/facebookresearch/SingleModelUncertainty):Source code for "Single-Model Uncertainties for Deep Learning", by Natasa Tagasovska and David Lopez-Paz, NeurIPS 2019.(已下载)
-	- [facebookresearch/SingleModelUncertainty](https://github.com/facebookresearch/SingleModelUncertainty):论文[Single-Model Uncertainties for Deep Learning](https://arxiv.org/abs/1811.00908)的实现代码，对比了Qauity Based方等法。
+	- [facebookresearch/SingleModelUncertainty](https://github.com/facebookresearch/SingleModelUncertainty):论文[Single-Model Uncertainties for Deep Learning](https://arxiv.org/abs/1811.00908)的实现代码，对比了Qauity Based方等法z, NeurIPS 2019.(已下载)。
 
 	
