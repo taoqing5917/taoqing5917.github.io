@@ -29,11 +29,11 @@
 	- [《Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case》N Wu, B Green, X Ben, S O'Banion [Google] (2020) ](https://arxiv.org/abs/2001.08317)
 	- [《Multi-label Prediction in Time Series Data using Deep Neural Networks》W Zhang, D K. Jha, E Laftchiev, D Nikovski [Cornell University & Mitsubishi Electric Research Labs (MERL)] (2020)](https://arxiv.org/abs/2001.10098)
 	- [Jeevesh8/GHI-prediction](https://github.com/Jeevesh8/GHI-prediction):PyTorch Code for running various time series models for different time stamps and confidence intervals for Solar Irradiance prediction.
-	- [How to define a prediction interval](https://github.com/rtaubes/lstm-1):How to define a prediction interval for LSTM network for time series.以均值、方差的方式构建区间。
+	- (已下载)[How to define a prediction interval](https://github.com/rtaubes/lstm-1):How to define a prediction interval for LSTM network for time series.以均值、方差的方式构建区间。
 	- [dvassall/Forecasting_Error_Codes](https://github.com/dvassall/Forecasting_Error_Codes):Sample data formatting and model construction codes for prediction of wind speed forecasting error as described in "Utilizing Physics-Based Input Features within a Machine Learning Model to Predict Wind Speed Forecasting Error".
 	- [cigroup-ol/windml](https://github.com/cigroup-ol/windml):The windML framework provides an easy-to-use access to wind data sources within the Python world, building upon numpy, scipy, sklearn, and matplotlib. Renewable Wind Energy, Forecasting, Prediction http://www.windml.org
-	- [rasnim/Wind_generation_prediction_using_machine_learning](https://github.com/rasnim/Wind_generation_prediction_using_machine_learning):Wind power generation prediction based on weather forecast data using deep neural networks.
-	- [madsenmj/ml-prediction-uncertainty](https://github.com/madsenmj/ml-prediction-uncertainty):An introduction to uncertainties in machine-learning predictions.
+	- (已下载)[rasnim/Wind_generation_prediction_using_machine_learning](https://github.com/rasnim/Wind_generation_prediction_using_machine_learning):Wind power generation prediction based on weather forecast data using deep neural networks.
+	- (已下载)[madsenmj/ml-prediction-uncertainty](https://github.com/madsenmj/ml-prediction-uncertainty):An introduction to uncertainties in machine-learning predictions.
 	- [YuRiTan/prediction-uncertainty](https://github.com/YuRiTan/prediction-uncertainty):A frequentist approach to prediction uncertainty,含PyTorch实现。
 	- [josiahdavis/quantifying-uncertainty](https://github.com/josiahdavis/quantifying-uncertainty)：Some experiments on various methods for evaluating uncertainty in Deep Learning Systems.
 	
@@ -41,15 +41,15 @@
 	
 - **4月份 汇报 收集**
 
-	- [shz9/csc2541-ml-project](https://github.com/shz9/csc2541-ml-project):Modeling Uncertainty in RNNs for Time Series Forecasting。(已下载)
+	- (已下载)[shz9/csc2541-ml-project](https://github.com/shz9/csc2541-ml-project):Modeling Uncertainty in RNNs for Time Series Forecasting。
 	- [pytorch-PPUU](https://github.com/Atcold/pytorch-PPUU):Implementing Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic in PyTorch.(暂时不看)
-	- [janisgp/Uncertainty_DeepLearning](https://github.com/janisgp/Uncertainty_DeepLearning):Collection of implementations regarding uncertainty prediction in deep learning 重点看.(已下载)
+	- (已下载)[janisgp/Uncertainty_DeepLearning](https://github.com/janisgp/Uncertainty_DeepLearning):Collection of implementations regarding uncertainty prediction in deep learning 重点看.
 	- ~~[satyanshukla/Time-Series-Prediction-with-Uncertainty](https://github.com/satyanshukla/Time-Series-Prediction-with-Uncertainty):Time Series Prediction with Uncertainty Estimates （没写完整，不看了）~~
 	
 - **一些论文及实现**
 	- [3springs/attentive-neural-processes](https://github.com/3springs/attentive-neural-processes):论文["Recurrent Attentive Neural Process for Sequential Data"](https://arxiv.org/abs/1910.09323)的实现。(已下载)
-	- [ahilbers/bootstrap_uncertainty_quantification](https://github.com/ahilbers/bootstrap_uncertainty_quantification):论文实现数据与代码[arXiv:1912.10326](https://arxiv.org/abs/1912.10326)Quantifying demand and weather uncertainty in power system models using the m out of n bootstrap。(已下载)
-	- （♥♥♥♥♥）[High-Quality Prediction Intervals for Deep Learning](https://github.com/TeaPearce/Deep_Learning_Prediction_Intervals)：Code accompanying the ICML 2018 paper High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach https://arxiv.org/abs/1802.07167.(已下载)
-	- （♥♥♥♥♥）[facebookresearch/SingleModelUncertainty](https://github.com/facebookresearch/SingleModelUncertainty):论文[Single-Model Uncertainties for Deep Learning](https://arxiv.org/abs/1811.00908)的实现代码，对比了Qauity Based方等法z, NeurIPS 2019.(已下载)。
+	- (已下载)[ahilbers/bootstrap_uncertainty_quantification](https://github.com/ahilbers/bootstrap_uncertainty_quantification):论文实现数据与代码[arXiv:1912.10326](https://arxiv.org/abs/1912.10326)Quantifying demand and weather uncertainty in power system models using the m out of n bootstrap。
+	- （♥♥♥♥♥）(已下载)[High-Quality Prediction Intervals for Deep Learning](https://github.com/TeaPearce/Deep_Learning_Prediction_Intervals)：Code accompanying the ICML 2018 paper High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach https://arxiv.org/abs/1802.07167.
+	- （♥♥♥♥♥）(已下载)[facebookresearch/SingleModelUncertainty](https://github.com/facebookresearch/SingleModelUncertainty):论文[Single-Model Uncertainties for Deep Learning](https://arxiv.org/abs/1811.00908)的实现代码，对比了Qauity Based方等法z, NeurIPS 2019.
 
 	
