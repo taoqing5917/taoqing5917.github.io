@@ -15,10 +15,10 @@
 	- [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series):**深度学习时序预测论文/代码/数据集/实验资源列表**
 
 - **区间预测方法 2020年1月3日**
-	- [regression-prediction-interval](https://github.com/shahejokarian/regression-prediction-interval)：使用scikit-learn、numpy和panda库构建具有预测区间的线性回归。
-	- [prediction-interval-NN](https://github.com/fishjh2/prediction-interval-NN)：神经网络回归问题的置信区间和预测区间。
-	- [Regression-Prediction-Interval](https://github.com/1suraj/Regression-Prediction-Interval)：计算回归预测区间
-	- [Monte Carlo Simulation for Empirically Derived Stock Price Prediction Intervals](https://github.com/jkclem/Monte-Carlo-Simulation-for-Generating-Stock-Price-Prediction-Intervals):基于蒙特卡罗模拟经验的股票价格预测区间
+	- (已下载)[regression-prediction-interval](https://github.com/shahejokarian/regression-prediction-interval)：使用scikit-learn、numpy和panda库构建具有预测区间的线性回归。
+	- (已下载)[prediction-interval-NN](https://github.com/fishjh2/prediction-interval-NN)：神经网络回归问题的置信区间和预测区间。
+	- ~~[Regression-Prediction-Interval](https://github.com/1suraj/Regression-Prediction-Interval)：计算回归预测区间~~
+	- (已下载)[Monte Carlo Simulation for Empirically Derived Stock Price Prediction Intervals](https://github.com/jkclem/Monte-Carlo-Simulation-for-Generating-Stock-Price-Prediction-Intervals):基于蒙特卡罗模拟经验的股票价格预测区间
 	- ~~[seanmbayley/prediction_intervals](https://github.com/seanmbayley/prediction_intervals)~~
 	- ~~[mohammad-hasani/Prediction-Intervals](https://github.com/mohammad-hasani/Prediction-Intervals) 不值一看~~
 	- ~~[cruvadom/Prediction_Intervals](https://github.com/cruvadom/Prediction_Intervals)：论文"Calibrated Prediction Intervals for Neural Network Regressors"  暂时不看~~
