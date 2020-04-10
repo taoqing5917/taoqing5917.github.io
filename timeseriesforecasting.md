@@ -9,7 +9,6 @@
 	- [Python电力系统分析包](https://github.com/PyPSA/PyPSA)
 	- [特征工程/特征选择简要指南(Python)](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)
 	- [Uncertainty Quantification in Deep Learning](https://github.com/ahmedmalaa/uncertainty):深度学习模型预测不确定性估计相关文献资源集锦
-	- [janisgp/Uncertainty_DeepLearning](https://github.com/janisgp/Uncertainty_DeepLearning)：Collection of implementations regarding uncertainty prediction in deep learning
 	- [基于PyTorch的概率时序预测框架](https://github.com/zalandoresearch/pytorch-ts)：PyTorch based Probabilistic Time Series forecasting framework based on GluonTS backend
 	- [microsoft/forecasting](https://github.com/microsoft/forecasting):时间序列预测最佳实践与示例。
 	- [【深度学习时序预测实例教程】](https://github.com/Azure/DeepLearningForTimeSeriesForecasting):Deep Learning for Time Series Forecasting - A collection of examples for using DNNs for time series forecasting with Keras. by Microsoft Azure GitHub
