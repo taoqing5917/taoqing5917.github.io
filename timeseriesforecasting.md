@@ -21,7 +21,7 @@
 	- [Monte Carlo Simulation for Empirically Derived Stock Price Prediction Intervals](https://github.com/jkclem/Monte-Carlo-Simulation-for-Generating-Stock-Price-Prediction-Intervals):基于蒙特卡罗模拟经验的股票价格预测区间
 	- [seanmbayley/prediction_intervals](https://github.com/seanmbayley/prediction_intervals)
 	- [mohammad-hasani/Prediction-Intervals](https://github.com/mohammad-hasani/Prediction-Intervals)
-	- [cruvadom/Prediction_Intervals](https://github.com/cruvadom/Prediction_Intervals)
+	- ~~[cruvadom/Prediction_Intervals](https://github.com/cruvadom/Prediction_Intervals)：论文"Calibrated Prediction Intervals for Neural Network Regressors"  暂时不看~~
 	
 
 
