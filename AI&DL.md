@@ -4,6 +4,7 @@
 
 ### 机器学习书籍
 
+- [wererLinC/Machine_Learning](https://github.com/wererLinC/Machine_Learning):参考了西瓜书，sklearn源码，李航统计学，机器学习实战、机器学习中的数学
 - 《统计学习方法》
 	- 1.[（基于IRIS鸢尾花卉数据集）《统计学习方法》的代码实现(含第二版)](https://github.com/fengdu78/lihang-code)
 	- 2.[（基于MNIST数据集）《统计学习方法》的代码实现](https://github.com/WenDesi/lihang_book_algorithm)
