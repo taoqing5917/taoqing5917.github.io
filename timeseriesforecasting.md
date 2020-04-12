@@ -29,11 +29,11 @@
 	- [《Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case》N Wu, B Green, X Ben, S O'Banion [Google] (2020) ](https://arxiv.org/abs/2001.08317)
 	- [《Multi-label Prediction in Time Series Data using Deep Neural Networks》W Zhang, D K. Jha, E Laftchiev, D Nikovski [Cornell University & Mitsubishi Electric Research Labs (MERL)] (2020)](https://arxiv.org/abs/2001.10098)
 	- [Jeevesh8/GHI-prediction](https://github.com/Jeevesh8/GHI-prediction):PyTorch Code for running various time series models for different time stamps and confidence intervals for Solar Irradiance prediction.
-	- (已下载)[How to define a prediction interval](https://github.com/rtaubes/lstm-1):How to define a prediction interval for LSTM network for time series.以均值、方差的方式构建区间。
+	- ~~[How to define a prediction interval](https://github.com/rtaubes/lstm-1):How to define a prediction interval for LSTM network for time series.以均值、方差的方式构建区间。(先点预测，计算均值方差生成区间，只有画区间图那里可以参考一下)~~
 	- [dvassall/Forecasting_Error_Codes](https://github.com/dvassall/Forecasting_Error_Codes):Sample data formatting and model construction codes for prediction of wind speed forecasting error as described in "Utilizing Physics-Based Input Features within a Machine Learning Model to Predict Wind Speed Forecasting Error".
 	- [cigroup-ol/windml](https://github.com/cigroup-ol/windml):The windML framework provides an easy-to-use access to wind data sources within the Python world, building upon numpy, scipy, sklearn, and matplotlib. Renewable Wind Energy, Forecasting, Prediction http://www.windml.org
 	- (已下载)[rasnim/Wind_generation_prediction_using_machine_learning](https://github.com/rasnim/Wind_generation_prediction_using_machine_learning):Wind power generation prediction based on weather forecast data using deep neural networks.
-	- (已下载)[madsenmj/ml-prediction-uncertainty](https://github.com/madsenmj/ml-prediction-uncertainty):An introduction to uncertainties in machine-learning predictions.
+	- ~~[madsenmj/ml-prediction-uncertainty](https://github.com/madsenmj/ml-prediction-uncertainty):An introduction to uncertainties in machine-learning predictions.（没啥东西可看）~~
 	- [YuRiTan/prediction-uncertainty](https://github.com/YuRiTan/prediction-uncertainty):A frequentist approach to prediction uncertainty,含PyTorch实现。
 	- [josiahdavis/quantifying-uncertainty](https://github.com/josiahdavis/quantifying-uncertainty)：Some experiments on various methods for evaluating uncertainty in Deep Learning Systems.
 	
