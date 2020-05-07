@@ -52,4 +52,5 @@
 	- （♥♥♥♥♥）(已下载)[High-Quality Prediction Intervals for Deep Learning](https://github.com/TeaPearce/Deep_Learning_Prediction_Intervals)：Code accompanying the ICML 2018 paper High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach https://arxiv.org/abs/1802.07167.
 	- （♥♥♥♥♥）(已下载)[facebookresearch/SingleModelUncertainty](https://github.com/facebookresearch/SingleModelUncertainty):论文[Single-Model Uncertainties for Deep Learning](https://arxiv.org/abs/1811.00908)的实现代码，对比了Qauity Based方等法z, NeurIPS 2019.
 
-	
+- **0507**
+	- [深度需求预测模型的Pytorch实现](https://github.com/jingw2/demand_forecast)
