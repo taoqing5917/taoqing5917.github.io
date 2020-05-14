@@ -13,6 +13,7 @@
 	- [microsoft/forecasting](https://github.com/microsoft/forecasting):时间序列预测最佳实践与示例。
 	- [【深度学习时序预测实例教程】](https://github.com/Azure/DeepLearningForTimeSeriesForecasting):Deep Learning for Time Series Forecasting - A collection of examples for using DNNs for time series forecasting with Keras. by Microsoft Azure GitHub
 	- [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series):**深度学习时序预测论文/代码/数据集/实验资源列表**
+	- [Introduction to Uncertainty Quantification](https://github.com/PredictiveScienceLab/uq-course)
 
 - **区间预测方法 2020年1月3日**
 	- ~~[regression-prediction-interval](https://github.com/shahejokarian/regression-prediction-interval)：使用scikit-learn、numpy和panda库构建具有预测区间的线性回归。（只有一个notebook，仅仅是一个例子，太简单，不看）~~
