@@ -9,6 +9,7 @@
 	- 1.[（基于IRIS鸢尾花卉数据集）《统计学习方法》的代码实现(含第二版)](https://github.com/fengdu78/lihang-code)
 	- 2.[（基于MNIST数据集）《统计学习方法》的代码实现](https://github.com/WenDesi/lihang_book_algorithm)
 	- 3.[《统计学习方法(第2版)》李航，笔记, 代码, notebook](https://github.com/SmirkCao/Lihang)
+	- 4.[手写实现李航《统计学习方法》书中全部算法](https://github.com/Dod-o/Statistical-Learning-Method_Code)
 
 - 《深度学习》(深度学习“圣经”)
 	- [以《深度学习》习题为线索的 Tensorflow 2.0 深度学习实践](https://github.com/adhiraiyan/DeepLearningWithTF2.0)
