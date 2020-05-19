@@ -56,3 +56,4 @@
 - **0507**
 	- [深度需求预测模型的Pytorch实现](https://github.com/jingw2/demand_forecast)
 	- [ForecastNet](https://github.com/jjdabr/forecastNet):论文实现"ForecastNet: A Time-Variant Deep Feed-Forward Neural Network Architecture for Multi-Step-Ahead Time-Series Forecasting" 
+	- [Code accompanying the paper: Point and interval forecasting for wind speed based on linear component extraction.](https://github.com/hyuzhou/Wind-speed-forecasting-)
